@@ -46,6 +46,7 @@ ul li { display: inline-block; }
   margin: 0 auto;
   margin-top: -60px;
   margin-bottom: -10px;
+  overflow: hidden;
 }
 @media (min-width: 600px) {
   #header {
@@ -61,7 +62,7 @@ ul li { display: inline-block; }
 }
 @media (min-width: 992px) {
   #header {
-    margin-top: -150px;
+    margin-top: -190px;
     margin-bottom: -80px;
   }
 }
