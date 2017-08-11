@@ -43,7 +43,7 @@ ul li { display: inline-block; }
 
 @media (min-width: 768px) {
   .landing {
-    margin-bottom: 15rem;
+    margin-bottom: 5rem;
   }
 }
 
