@@ -15,6 +15,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 
 gem "middleman-blog"
 
-gem "nokogiri"
+#gem "nokogiri"
 
 gem "redcarpet"

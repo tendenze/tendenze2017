@@ -47,7 +47,7 @@
 #   end
 # end
 
-require 'html_truncate.rb'
+#require 'html_truncate.rb'
 
 set :css_dir, 'css'
 
