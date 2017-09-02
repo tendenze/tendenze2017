@@ -11,7 +11,10 @@
    )
 %>
   <div id='<%= name %>' class="band col-xs-6 col-sm-4 col-md-3">
-    <div class="image link<%= index % img_group_count == 0? ' placeholder' : '' %>"
+    <div
+      class="image link
+      <%= index % img_group_count == 0 ? ' placeholder ' : '' %>
+      <%= data["extra"] ? data["extra"] : '' %>"
       data-trigger="<%= (index / img_group_count) %>">
     <% if modals_active %>
       <% content_tag(:div, :class => "modal-trigger hidden-xs hidden-sm",

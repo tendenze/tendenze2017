@@ -540,6 +540,17 @@ body.fluid {
        -o-transition: all 0.25s ease 0s;
           transition: all 0.25s ease 0s;
 }
+#lineup .image.link.xnl:before {
+  content: '';
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  z-index: 1;
+  width: 29px;
+  height: 35px;
+  padding: 2px;
+  background: #fff url("../img/xnl-logo.png") no-repeat center center / contain;
+}
 #lineup .more .heading {
   margin-top: 35px;
   margin-bottom: 15px;

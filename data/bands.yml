@@ -10,6 +10,7 @@ main:
     banner: bands/banners/alevaghi.jpg
     link: "https://www.facebook.com/alessandro.vaghi.10"
     embed: "https://www.mixcloud.com/alessandrovaghi10/"
+    extra: "xnl"
 
   - name: "ALL BUT FACE"
     genre: Post-Core
@@ -34,6 +35,7 @@ main:
     banner: bands/banners/angoli.jpg
     link: "https://www.facebook.com/angoliacustici"
     embed: "https://vimeo.com/128736262#t=13m40s"
+    extra: "xnl"
 
   - name: "ANTONIO FERRARI"
     genre: Cantautorato Pop
