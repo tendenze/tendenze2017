@@ -8,16 +8,6 @@
   font-style: oblique;
 }
 
-@font-face {
-  font-family: cabin-sketch;
-  src: url('../fonts/CabinSketch-Regular.woff') format('woff');
-}
-@font-face {
-  font-family: cabin-sketch;
-  src: url('../fonts/CabinSketch-Bold.woff') format('woff');
-  font-weight: bold;
-}
-
 /* --- GLOBAL TWEAKS --- */
 body {
   background: #d7eef4;
