@@ -559,6 +559,9 @@ body.fluid {
 .band-info.modal-content {
   background: #0e1543 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
 }
+.band-info.modal-content .xnl {
+  background: #FFF;
+}
 
 .modal-container {
   color: #c1c0c0;

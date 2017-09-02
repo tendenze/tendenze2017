@@ -1,4 +1,4 @@
-<div class="modal-container container-fluid">
+<div class="modal-container container-fluid <%= data["extra"] ? data["extra"] : '' %>">
   <div class="row color-<%= color_index %>">
     <div class="banner col-xs-12 col-sm-12 col-md-12">
       <% banner_path = data["banner"]? data["banner"] : "bands/banners/base.png" %>
@@ -34,7 +34,9 @@
         <% end %>
       <% end %>
       <div class="logo">
-        <% if color_index == 0 %>
+        <% if data["extra"] %>
+        <%= image_tag "bands/#{data["extra"]}.png" %>
+        <% elsif color_index == 0 %>
         <%= image_tag "bands/logo_purple.png" %>
         <% elsif color_index == 1 %>
         <%= image_tag "bands/logo_green.png" %>
