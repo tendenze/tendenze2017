@@ -11,14 +11,6 @@ sponsors:
     image: logos/s-03.png
     image_footer: footer/footer-sponsor3.png
     link: http://www.e-coop.it/web/alleanza3-0/chi_siamo
-  - name: abi-coop
-    image: logos/s-04.png
-    image_footer: footer/footer-sponsor4.png
-    link: http://www.abicoop.it/
-  - name: bulla sport
-    image: logos/s-05.png
-    image_footer: footer/footer-sponsor5.png
-    link: http://www.bullasport.it/index.php
 
 collaborators:
   - name: arci
