@@ -215,8 +215,8 @@ body.fluid {
 }
 @media screen and (max-width: 992px) {
   #header .navigation .nav a {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 13px;
+    padding-right: 13px;
   }
 }
 @media screen and (min-width: 768px) {
