@@ -1,4 +1,4 @@
-- day: GIO 15
+- day: GIO 14
   stages:
     - name: Portichetto
       schedule:
@@ -48,7 +48,32 @@
           band: ZEBRA FINK
         - time: "01.00"
           band:
-- day: VEN 16
+    - name: XNL Stage
+      schedule:
+        - time: "19.30"
+          band:
+        - time: "20.15"
+          band:
+        - time: "21.00"
+          band: Antonio Ferrari
+        - time: "21.30"
+          band:
+        - time: "22.00"
+          band: ANTS
+        - time: "22.30"
+          band:
+        - time: "23.00"
+          band: LANDLORD
+        - time: "23.30"
+          band:
+        - time: "00.00"
+          band:
+        - time: "00.30"
+          band: ZEBRA FINK
+        - time: "01.00"
+          band:
+
+- day: VEN 15
   stages:
     - name: Portichetto
       schedule:
@@ -106,7 +131,7 @@
           band: BABBUTZI ORKESTAR
         - time: "01.00"
           band:
-    - name: Boschetto
+    - name: XNL Stage
       schedule:
         - time: "18.00"
           band:
@@ -135,7 +160,7 @@
         - time: "01.00"
           band: SONS OF ROBOTS
 
-- day: SAB 17
+- day: SAB 16
   stages:
     - name: Portichetto
       schedule:
@@ -193,7 +218,7 @@
           band: LN RIPLEY SOUNDSYSTEM
         - time: "01.00"
           band:
-    - name: Boschetto
+    - name: XNL Stage
       schedule:
         - time: "18.00"
           band:
@@ -221,7 +246,8 @@
           band:
         - time: "01.00"
           band: IL LEPROTTO
-- day: DOM 18
+
+- day: DOM 17
   stages:
     - name: Portichetto
       schedule:
