@@ -77,7 +77,7 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
-page "/index.html", :layout => "fluid"
+page "/landing2017.html", :layout => "fluid"
 page "/bands/*", :layout => "fluid"
 # Disable layout for modal band pages
 page "/bandmodals/*", :layout => false
