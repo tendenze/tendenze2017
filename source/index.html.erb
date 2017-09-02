@@ -10,6 +10,12 @@ main_header: true
 <div id="news" class="row">
   <div class="news-container col-xs-12 col-sm-12 col-md-12">
     <div class="heading">News</div>
+    <% get_md_files("data/news/2017").reverse_each do |name| %>
+    <% data = get_data("news/2017", name) %>
+      <% data["id"] = name %>
+      <%= partial "partials/news", :locals => { :data => data, :prefix => "2017", :summary => true } %>
+    <% end %>
+    <div class="heading">Archivio 2016</div>
     <% get_md_files("data/news/2016").reverse_each do |name| %>
     <% data = get_data("news/2016", name) %>
       <% data["id"] = name %>
