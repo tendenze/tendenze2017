@@ -18,14 +18,16 @@ active: true
   <%= partial "partials/lineup_grid", :locals => {
         :bands => data.bands.highlight,
         :base_index => 0,
-        :modals_active => current_page.data.active } %>
+        :modals_active => current_page.data.active,
+        :compact => true } %>
   </div>
   <div class="row">
   <div class="heading">Gli altri</div>
   <%= partial "partials/lineup_grid", :locals => {
         :bands => data.bands.main,
         :base_index => 0,
-        :modals_active => current_page.data.active } %>
+        :modals_active => current_page.data.active,
+        :compact => false } %>
   </div>
   <% if data.bands.extra %>
   <div class="more col-xs-12 col-sm-12 col-md-12">

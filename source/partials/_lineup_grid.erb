@@ -10,7 +10,7 @@
     "data-trigger" => (index / img_group_count)
    )
 %>
-  <div id='<%= name %>' class="band col-xs-6 col-sm-4 col-md-3">
+  <div id='<%= name %>' class="band <% if !compact %>col-xs-6 col-sm-4 col-md-3<% else %>col-xs-6 col-sm-3 col-md-2<% end %>">
     <div
       class="image link
       <%= index % img_group_count == 0 ? ' placeholder ' : '' %>

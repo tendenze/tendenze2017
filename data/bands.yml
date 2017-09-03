@@ -49,7 +49,6 @@ highlight:
     link: "https://www.facebook.com/antonio.ferrari.524?fref=ts"
     embed: "https://www.youtube.com/watch?v=tZyh_90nh5Y"
 
-main:
   - name: "ANTS"
     genre: "Soul/Punk/Rock'n'roll"
     from: Rivergaro
@@ -61,6 +60,7 @@ main:
     banner: bands/banners/ants.jpg
     link: "https://www.facebook.com/AntsTheBand/"
     embed: "https://www.youtube.com/watch?v=FyU6qCVLQ9c"
+    extra: xnl
 
   - name: "ARBOS"
     genre: Post Wave/Punk
@@ -74,6 +74,7 @@ main:
     link: "https://www.facebook.com/operaiarbos/"
     embed: "https://www.youtube.com/watch?v=-fXQJJLs2iQ"
 
+main:
   - name: "BABBUTZI ORKESTAR"
     genre: BALKAN SEXY MUSIC
     from: Senza fissa dimora
