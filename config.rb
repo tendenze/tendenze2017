@@ -98,7 +98,6 @@ ready do
     end
   end
 
-  gen_band_pages(data.bands.highlight, 0)
   gen_band_pages(data.bands.main, 0)
 
   def gen_news_pages(directory, prefix)

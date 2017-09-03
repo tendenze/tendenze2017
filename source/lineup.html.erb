@@ -13,13 +13,22 @@ active: true
       <div class="heading"><%= current_page.data.title %></div>
     </div>
   </div> -->
-  <div class="row">
-  <div class="heading">Highlights</div>
-  <%= partial "partials/lineup_grid", :locals => {
-        :bands => data.bands.highlight,
-        :base_index => 0,
-        :modals_active => current_page.data.active,
-        :compact => true } %>
+  <div class="row guests">
+    <div class="heading">Highlights</div>
+    <%= partial "partials/lineup_grid", :locals => {
+          :bands => data.bands.guests,
+          :base_index => 0,
+          :modals_active => current_page.data.active,
+          :gen_modal_html => false,
+          :compact => false } %>
+  </div>
+  <div class="row highlights">
+    <%= partial "partials/lineup_grid", :locals => {
+          :bands => data.bands.highlights,
+          :base_index => 0,
+          :modals_active => current_page.data.active,
+          :gen_modal_html => false,
+          :compact => true } %>
   </div>
   <div class="row">
   <div class="heading">Gli altri</div>
@@ -27,6 +36,7 @@ active: true
         :bands => data.bands.main,
         :base_index => 0,
         :modals_active => current_page.data.active,
+        :gen_modal_html => true,
         :compact => false } %>
   </div>
   <% if data.bands.extra %>

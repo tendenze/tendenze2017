@@ -1,4 +1,129 @@
-highlight:
+guests:
+  - name: "ALE VAGHI"
+    genre: Deep-House/Minimal-Techno
+    from: Piacenza
+    date: Venerdì 16
+    time: "18.45"
+    stage: Boschetto
+    thumbnail: bands/thumbs/alevaghi.jpg
+    color: purple
+    banner: bands/banners/alevaghi.jpg
+    link: "https://www.facebook.com/alessandro.vaghi.10"
+    embed: "https://www.mixcloud.com/alessandrovaghi10/"
+    extra: "xnl"
+
+  - name: "ALL BUT FACE"
+    genre: Post-Core
+    from: Piacenza
+    date: Venerdì 16
+    time: "18.45"
+    stage: Portichetto
+    thumbnail: bands/thumbs/all.jpg
+    color: green
+    banner: bands/banners/all.jpg
+    link: "https://www.facebook.com/allbutface/"
+    embed:
+
+  - name: "ANGOLI ACUSTICI"
+    genre: Unplugged
+    from: Piacenza
+    date: Sabato 17
+    time: "18.00"
+    stage: Portichetto
+    thumbnail: bands/thumbs/angoli.jpg
+    color: blue
+    banner: bands/banners/angoli.jpg
+    link: "https://www.facebook.com/angoliacustici"
+    embed: "https://vimeo.com/128736262#t=13m40s"
+    extra: "xnl"
+
+  - name: "ANTONIO FERRARI"
+    genre: Cantautorato Pop
+    from: Piacenza
+    date: Giovedì 15
+    time: "21.00"
+    stage: Main Stage
+    thumbnail: bands/thumbs/aferrari.jpg
+    color: purple
+    banner: bands/banners/aferrari.jpg
+    link: "https://www.facebook.com/antonio.ferrari.524?fref=ts"
+    embed: "https://www.youtube.com/watch?v=tZyh_90nh5Y"
+
+highlights:
+  - name: "ANTS"
+    genre: "Soul/Punk/Rock'n'roll"
+    from: Rivergaro
+    date: Giovedì 15
+    time: "22.00"
+    stage: Main Stage
+    thumbnail: bands/thumbs/ants.jpg
+    color: green
+    banner: bands/banners/ants.jpg
+    link: "https://www.facebook.com/AntsTheBand/"
+    embed: "https://www.youtube.com/watch?v=FyU6qCVLQ9c"
+    extra: xnl
+
+  - name: "ARBOS"
+    genre: Post Wave/Punk
+    from: Genova
+    date: Sabato 17
+    time: "20.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/arbos.jpg
+    color: blue
+    banner: bands/banners/arbos.jpg
+    link: "https://www.facebook.com/operaiarbos/"
+    embed: "https://www.youtube.com/watch?v=-fXQJJLs2iQ"
+
+  - name: "BABBUTZI ORKESTAR"
+    genre: BALKAN SEXY MUSIC
+    from: Senza fissa dimora
+    date: Venerdì 16
+    time: "24.00"
+    stage: Main Stage
+    thumbnail: bands/thumbs/babbu.jpg
+    color: purple
+    banner: bands/banners/babbu.jpg
+    link: "https://www.facebook.com/BabbutziOrkestar/"
+    embed: "https://youtu.be/neFH_MBqG-g"
+
+  - name: "BLOSSOM SESSION"
+    genre: Jammed psych-rock
+    from: Piacenza
+    date: Venerdì 16
+    time: "21.00"
+    stage: Main Stage
+    thumbnail: bands/thumbs/blossom.jpg
+    color: green
+    banner: bands/banners/blossom.jpg
+    link: "https://www.facebook.com/blackbloodyblossom/?fref=ts"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=1653540420/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://blackbloodyblossom.bandcamp.com/album/black-bloody-blossom-ep|Black Bloody Blossom EP by Black Bloody Blossom"
+
+  - name: "BLUE FREEDOM"
+    genre: Blues-Hard-Rock'n'roll
+    from: Piacenza
+    date: Sabato 17
+    time: "18.45"
+    stage: Portichetto
+    thumbnail: bands/thumbs/blue.jpg
+    color: blue
+    banner:  bands/banners/blue.jpg
+    link: "https://www.facebook.com/pages/Blue-Freedom/646222288803316"
+    embed: "http://youtu.be/rDhoCIU4B3M"
+
+  - name: "BOP IN TROUBLE"
+    genre: Indie-Electro
+    from: Piacenza
+    date: Sabato 17
+    time: "22.00"
+    stage: Boschetto
+    thumbnail: bands/thumbs/bop.jpg
+    color: purple
+    banner: bands/banners/bop.jpg
+    link: "https://www.facebook.com/indiepeppo?fref=ts"
+    embed:
+
+main:
   - name: "ALE VAGHI"
     genre: Deep-House/Minimal-Techno
     from: Piacenza
@@ -74,7 +199,6 @@ highlight:
     link: "https://www.facebook.com/operaiarbos/"
     embed: "https://www.youtube.com/watch?v=-fXQJJLs2iQ"
 
-main:
   - name: "BABBUTZI ORKESTAR"
     genre: BALKAN SEXY MUSIC
     from: Senza fissa dimora

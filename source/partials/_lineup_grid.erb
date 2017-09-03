@@ -41,7 +41,7 @@
     <% end %>
     </div>
   </div>
-  <% if modals_active %>
+  <% if modals_active && gen_modal_html %>
   <div class="modal fade" id='<%= "#{name}-modal" %>' tabindex="-1" role="dialog" aria-labelledby='<%= "#{name}" %>' aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="band-info modal-content">
