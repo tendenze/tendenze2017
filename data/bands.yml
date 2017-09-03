@@ -1,4 +1,4 @@
-main:
+highlight:
   - name: "ALE VAGHI"
     genre: Deep-House/Minimal-Techno
     from: Piacenza
@@ -49,6 +49,7 @@ main:
     link: "https://www.facebook.com/antonio.ferrari.524?fref=ts"
     embed: "https://www.youtube.com/watch?v=tZyh_90nh5Y"
 
+main:
   - name: "ANTS"
     genre: "Soul/Punk/Rock'n'roll"
     from: Rivergaro
