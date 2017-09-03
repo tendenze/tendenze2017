@@ -443,7 +443,7 @@ body.fluid {
 
 /* --- BANDS --- */
 #lineup .band {
-  margin-top: 20px;
+  margin-bottom: 20px;
   padding-top: 10px;
 }
 #lineup .image {
@@ -475,6 +475,12 @@ body.fluid {
   padding-right: 5px;
   padding-top: 1px;
   padding-bottom: 4px;
+}
+@media screen and (min-width: 991px) {
+  #lineup .highlights .band .image .name {
+    font-size: 20px;
+    padding-bottom: 0;
+  }
 }
 @media screen and (max-width: 447px) {
   #lineup .band .image .name {
