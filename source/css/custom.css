@@ -10,10 +10,14 @@
 
 /* --- GLOBAL TWEAKS --- */
 body {
-  background: #d7eef4;
-  padding-top: 5px;
+  background: url(../img/bg.jpg);
   font-size: 14px;
-  color: #182259;
+  color: #222;
+}
+body.xnl {
+  background: url(../img/bg-xnl.jpg);
+  font-size: 14px;
+  color: #555;
 }
 body.fluid {
   background: #0e1543 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
@@ -55,15 +59,22 @@ body.fluid {
   padding-top: 46.77%;
 }
 
+.xnl #header .banner .home-link .image {
+  background: url(../img/banner-big-xnl.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-top: 46.77%;
+}
+
 #header .title {
   font-family: big-noodle, Arial, sans-serif;
   line-height: 1;
-  color: #00aad6;
+  color: #222;
   font-size: 100px;
   text-align: center;
 }
 #header .title span {
-  color: #fff;
+  color: #9d9f97;
 }
 @media screen and (max-width: 650px) {
   #header .title {
@@ -106,10 +117,10 @@ body.fluid {
 #header .subtitle .info li.text span{
   padding-left: 3px;
   padding-right: 3px;
-  color: #182259;
+  color: #555;
 }
 #header .subtitle .info.secondary li.text span{
-  color: #00aad6;
+  color: #e69229;
 }
 #header .subtitle .info li.icon.first {
   padding-left: 6px;
@@ -165,12 +176,13 @@ body.fluid {
 
 /* --- NAVBAR --- */
 #header .navigation {
-  background-color: #95cce7;
+  background-color: #222;
   margin-left: -10px;
   margin-right: -10px;
   border: none;
   color:#FFF;
 }
+
 #header .navigation.navbar {
   border-radius: 0px;
   min-height: 34px;
@@ -183,13 +195,13 @@ body.fluid {
   line-height: 1.42857;
 }
 #header .navigation .nav a:hover {
-  background-color: #00aad6;
-  color: #182259;
+  background-color: #f39929;
+  color: #fff;
   border-radius: 4px;
 }
 #header .navigation .nav a:focus {
-  background-color: #00aad6;
-  color: #182259;
+  background-color: #f39929;
+  color: #fff;
   border-radius: 4px;
 }
 #header .navbar-header .navbar-brand {
@@ -198,7 +210,7 @@ body.fluid {
   color: #fff;
 }
 #header .navigation .navbar-toggle {
-  background-color: #182259;
+  background-color: #555;
 }
 #header .navigation .navbar-toggle .icon-bar {
   background-color: #fff;
@@ -228,23 +240,15 @@ body.fluid {
 }
 
 #footer {
-  background-color: #c1e3f0;
+  background-color: rgba(255,189,106,0.8);
   margin-top: 20px;
   margin-left: -10px;
   margin-right: -10px;
-  padding-bottom: 3px;
+  padding: 10px 0;
   text-align: center;
 
 }
-#footer::before {
-  content: " ";
-  display: block;
-  width: 100%;
-  background: #d7eef4 url("../img/footer/waves.svg") no-repeat;
-  background-size: cover;
-  background-position: center center;
-  padding-top: 14.16%;
-}
+
 #footer img,
 #footer a {
   display: inline-block;
@@ -333,7 +337,7 @@ body.fluid {
   margin-top: 5px;
 }
 .news-container .news a {
-  color: #182259;
+  color: #ee9627;
   text-decoration: underline;
 }
 .news-container .news .content ul {
@@ -396,7 +400,7 @@ body.fluid {
   margin-bottom: 3px;
 }
 .festival-container a {
-    color: #182259;
+    color: #555;
     text-decoration: underline;
 }
 .festival-container .org {
@@ -610,17 +614,17 @@ body.fluid {
   color: #d7eef4;
 }
 .modal-container .color-0 .return a:hover {
-  color: #182259;
+  color: #555;
   background-color: #b2bdff;
   text-decoration: none;
 }
 .modal-container .color-1 .return a:hover {
-  color: #182259;
+  color: #555;
   background-color: #a9ffb5;
   text-decoration: none;
 }
 .modal-container .color-2 .return a:hover {
-  color: #182259;
+  color: #555;
   background-color: #d7eef4;
   text-decoration: none;
 }
@@ -707,7 +711,7 @@ body.fluid {
   margin-top: 5px;
 }
 .expo-container .exhibitor .text a {
-    color: #182259;
+    color: #555;
     text-decoration: underline;
 }
 @media screen and (max-width: 767px) {
@@ -732,7 +736,7 @@ body.fluid {
 }
 .extra-container .exhibitor {
   margin-top: 32px;
-  color: #182259;
+  color: #555;
 }
 .extra-container .exhibitor .title {
   font-family: big-noodle, Arial, sans-serif;
@@ -757,7 +761,7 @@ body.fluid {
   margin-bottom: 3px;
 }
 .extra-container .exhibitor .description a {
-  color: #182259;
+  color: #555;
   text-decoration: underline;
 }
 .extra-container .exhibitor .banner {
@@ -857,7 +861,7 @@ body.fluid {
   width: 60px;
 }
 .agenda-container .schedule th.stage:nth-child(odd) {
-  background-color: #182259;
+  background-color: #555;
 }
 .agenda-container .schedule th.stage:nth-child(even) {
   background-color: #b2bdff;
@@ -913,14 +917,14 @@ body.fluid {
 .agenda-container .return.link a {
   font-family: big-noodle, Arial, sans-serif;
   font-size: 30px;
-  color: #182259;
+  color: #555;
   padding: 3px 5px;
-  border: 3px solid #182259;
+  border: 3px solid #555;
   border-radius: 3px;
 }
 .agenda-container .return.link a:hover {
   text-decoration: none;
-  background-color: #182259;
+  background-color: #555;
   color: #b2bdff;
 }
 @media screen and (min-width: 992px) {
@@ -959,7 +963,7 @@ body.fluid {
     height: 30px;
   }
   .agenda-container .schedule th.stage.odd {
-    background-color: #182259;
+    background-color: #555;
   }
   .agenda-container .schedule th.stage.even {
     background-color: #b2bdff;

@@ -123,6 +123,31 @@ highlights:
     link: "https://www.facebook.com/indiepeppo?fref=ts"
     embed:
 
+  - name: "BOP IN TROUBLE"
+    genre: Indie-Electro
+    from: Piacenza
+    date: Sabato 17
+    time: "22.00"
+    stage: Boschetto
+    thumbnail: bands/thumbs/bop.jpg
+    color: purple
+    banner: bands/banners/bop.jpg
+    link: "https://www.facebook.com/indiepeppo?fref=ts"
+    embed:
+
+  - name: "BOP IN TROUBLE"
+    genre: Indie-Electro
+    from: Piacenza
+    date: Sabato 17
+    time: "22.00"
+    stage: Boschetto
+    thumbnail: bands/thumbs/bop.jpg
+    color: purple
+    banner: bands/banners/bop.jpg
+    link: "https://www.facebook.com/indiepeppo?fref=ts"
+    embed:
+
+
 main:
   - name: "ALE VAGHI"
     genre: Deep-House/Minimal-Techno

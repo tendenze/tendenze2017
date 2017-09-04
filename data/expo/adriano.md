@@ -1,11 +1,11 @@
 ---
 name: Adriano Argentino
-title: GIOIELLI, MANUFATTI, ABBIGLIAMENTO
-thumbnail: expo/adriano.jpg
+title: Adriano Argentino
+thumbnail: expo/adrianoargentino.jpg
 link:
 mail:
 ---
 
-
+Gioielli, manufatti, abbigliamento.
 
 
