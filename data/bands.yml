@@ -320,17 +320,29 @@ main:
     link: "https://www.facebook.com/lesdarlingsband"
     embed: "https://youtu.be/uU3_31AeiAc"
 
-  - name: "ZENDEN SAN"
+  - name: "DEAD MAN'S BLUES FUCKERS"
     genre: 
     from: 
-    date: Giovedì 14
+    date: Domenica 16
     time: "22.30"
     stage: Portichetto
-    thumbnail: bands/thumbs/zenden.jpg
-    color: green
-    banner: bands/banners/zenden.jpg
-    link: "https://www.facebook.com/zendensan8"
-    embed: "https://youtu.be/JOkMkkFGRGA"
+    thumbnail: bands/thumbs/deadman.jpg
+    color: purple
+    banner: bands/banners/deadman.jpg
+    link: "https://www.facebook.com/dmbfp2"
+    embed: "https://youtu.be/VG-kDf72PC0"
+
+  - name: "ALESSANDRO ZANOLINI"
+    genre: 
+    from: 
+    date: Domenica 16
+    time: "16.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/alezanolini.jpg
+    color: purple
+    banner: bands/banners/alezanolini.jpg
+    link: "https://www.facebook.com/Alessandro-Zanolini-132027901292"
+    embed: "https://youtu.be/T52L89AG8pI"
 
   - name: "I CONIGLI ROSA UCCIDONO"
     genre: 
@@ -591,7 +603,7 @@ main:
     link: "https://www.facebook.com/garolfifrancesco"
     embed: ""
 
-  - name: "VISCERA"
+  - name: "VISCERA|||"
     genre: 
     from: 
     date: Giovedì 14
@@ -1106,3 +1118,151 @@ main:
     banner: bands/banners/sutti.jpg
     link: "https://www.facebook.com/MarcoSutti-1931989773746361/"
     embed: "https://youtu.be/KY6AJszEoac"
+
+  - name: "CLAUDIA IS ON THE SOFA"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "17.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/claudia.jpg
+    color: green
+    banner: bands/banners/claudia.jpg
+    link: "https://www.facebook.com/claudiaisonthesofa"
+    embed: "https://youtu.be/HSn4gKzt-V0"
+
+  - name: "OYKU"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "18.00"
+    stage: Portichetto
+    thumbnail: bands/thumbs/oyku.jpg
+    color: green
+    banner: bands/banners/oyku.jpg
+    link: "https://www.facebook.com/oykuofficial"
+    embed: "https://youtu.be/BZif6yUHa8o"
+ 
+  - name: "DASF ACT"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "18.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/dasf.jpg
+    color: green
+    banner: bands/banners/dasf.jpg
+    link: "https://www.facebook.com/dasfact"
+    embed: ""
+
+  - name: "CANDIES FOR BREAKFAST"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "19.00"
+    stage: Portichetto
+    thumbnail: bands/thumbs/candies.jpg
+    color: green
+    banner: bands/banners/candies.jpg
+    link: "https://www.facebook.com/candiesforbreakfast"
+    embed: "https://youtu.be/ChsjQ_XIKYg"
+
+  - name: "SUNDAY IN SOARZA"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "19.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/sunday.jpg
+    color: green
+    banner: bands/banners/sunday.jpg
+    link: "https://www.facebook.com/SundayinSoarza"
+    embed: "https://youtu.be/5W7psrlBSlk"
+
+  - name: "THE STRIKES"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "20.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/stri.jpg
+    color: green
+    banner: bands/banners/stri.jpg
+    link: "https://www.facebook.com/thestrikesband"
+    embed: "https://youtu.be/Hf3JVYLYUEk"
+
+  - name: "STRATO'S"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "21.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/stra.jpg
+    color: green
+    banner: bands/banners/stra.jpg
+    link: "https://www.facebook.com/stratosofficialpage"
+    embed: "https://youtu.be/g_hfHCJUjPI"
+
+  - name: "LES FUFIES AND THE RUBBISH"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "00.30"
+    stage: Portichetto
+    thumbnail: bands/thumbs/fufi.jpg
+    color: green
+    banner: bands/banners/fufi.jpg
+    link: "https://www.facebook.com/lesfufies"
+    embed: ""
+
+  - name: "MAURO TITANIO"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "17.00"
+    stage: Boschetto
+    thumbnail: bands/thumbs/t.jpg
+    color: green
+    banner: bands/banners/t.jpg
+    link: ""
+    embed: ""
+    extra: "xnl"  
+
+  - name: "DJ TODAY"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "20.00"
+    stage: Boschetto
+    thumbnail: bands/thumbs/dj.jpg
+    color: green
+    banner: bands/banners/dj.jpg
+    link: "https://www.facebook.com/giulio.taroni.3"
+    embed: ""
+    extra: "xnl"  
+
+  - name: "DOC LUDEN LOOKSHARP"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "21.00"
+    stage: Boschetto
+    thumbnail: bands/thumbs/doc.jpg
+    color: green
+    banner: bands/banners/doc.jpg
+    link: "https://www.facebook.com/Doc-Luden-Looksharp-203332506413156"
+    embed: "https://www.reverbnation.com/doclooksharp"
+    extra: "xnl"
+
+  - name: "PLASMAN 51"
+    genre: 
+    from: 
+    date: Domenica 17
+    time: "21.45"
+    stage: Boschetto
+    thumbnail: bands/thumbs/plasman.jpg
+    color: green
+    banner: bands/banners/plasman.jpg
+    link: "https://www.facebook.com/plasman51"
+    embed: "https://soundcloud.com/plasman-51beats"
+    extra: "xnl" 

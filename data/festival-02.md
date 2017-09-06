@@ -1,8 +1,7 @@
 ## CREDITS & THANX
 
-La XXII edizione di Tendenze Festival è promossa dal Comune di Piacenza con il contributo fondamentale dell'assessorato alle politiche giovanili e organizzata da Leto agency e associazione CrowsE20 con il patrocinio della Regione Emilia Romagna e il prezioso e generoso apporto di alcuni sponsor. Su tutti la Fondazione di Piacenza e Vigevano, insieme ad Iren, Coop Alleanza 3.0, Abi Coop e Bulla Sport.
-
-Tutto questo non sarebbe possibile senza la collaborazione dei nostri preziosissimi partner. Arci Piacenza, Spazio4, Spazio2, Sound Round e Giardini Sonori, Orzorock Music, Audiozone Studios, UniNoise, Electroshocking, BangBangRadio, Effetre Fotostudio, Desert Fox Records, Elfo Recording Studio, i ragazzi di Sound Bonico e associazione Bus1, House of Bash, Ops e l'hosting Gedinfo per il sito web curato da Federica & Teo. Last but not the least, un grazie a <a href="https://www.facebook.com/berlikete/" rel="noopener" target="_blank">Berlikete</a> per il disegno che rende la nostra grafica bella, romantica e misteriosa come non mai.
+La XXIII edizione di Tendenze Festival è promossa dal Comune di Piacenza con il contributo fondamentale dell'assessorato alle Politiche Giovanili e organizzata da Leto.agency e associazione CrowsE20 con il sostegno della Fondazione di Piacenza e Vigevano, Iren, Coop Alleanza 3.0, la sponsorship di Alphaville (tshirt) e GedInfo (web hosting).
+Tutto questo non sarebbe possibile senza la collaborazione di preziosissimi partner: Spazio4, Spazio2, Associazione Sputnik, Associazione Orzorock, progetto SoundRound - Giardini Sonori, Orzorock Music, Audiozone Studios, Collettivo Praxis, Associazione Rivularia, Collettivo House of bash international, Bang Bang Radio, EffetreFotoStudio, Rorschach Visual Project. Uno staff di cinquanta giovani piacentini e tanti preziosi e generosi volontari insieme per regalare alla città la fine dell'estate più bella che si può.
 
 ## IL FESTIVAL
 
