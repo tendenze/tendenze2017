@@ -2,8 +2,8 @@
   stages:
     - name: Portichetto
       schedule:
-        - time: "19.30"
-          band: ENJOY PENINSULA
+        - time: "19.00"
+          band: TEQUIERO EURIDICE
         - time: "20.15"
           band: NO TNX
         - time: "21.00"

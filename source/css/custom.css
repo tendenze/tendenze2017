@@ -20,7 +20,7 @@ body.xnl {
   color: #555;
 }
 body.fluid {
-  background: #0e1543 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
+  background: #000 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
   padding-top: 0;
 }
 
@@ -451,10 +451,10 @@ body.fluid {
   padding-top: 10px;
 }
 #lineup .image {
-  background: #0e1543;
+  background: #000;
   max-width: 204px;
   margin: 0 auto;
-  border: 1px solid #3D3D3F;
+  border: 1px solid #000;
   box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
   position: relative;
 }
@@ -466,7 +466,7 @@ body.fluid {
   top: 0;
 }
 #lineup .image .name {
-  background: #0e1543;
+  background: #000;
   font-family: big-noodle, Arial, sans-serif;
   font-size: 25px;
   line-height: 1;
@@ -518,14 +518,15 @@ body.fluid {
   }
 }
 #lineup .image .name.color-0 {
-  color: #b2bdff;
+  color: #f39929;
 }
 #lineup .image .name.color-1 {
-  color: #a9ffb5;
+  color: #f39929;
 }
 #lineup .image .name.color-2 {
-  color: #d7eef4;
+  color: #f39929;
 }
+
 #lineup .image.link {
   -webkit-transition: all 0.25s ease 0s;
      -moz-transition: all 0.25s ease 0s;
@@ -557,10 +558,10 @@ body.fluid {
 }
 
 .band-info.modal-content {
-  background: #0e1543 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
+  background: #000 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
 }
 .band-info.modal-content .xnl {
-  background: #FFF;
+  background: url(../img/bg-xnl1.jpg);
 }
 
 .modal-container {
@@ -593,25 +594,25 @@ body.fluid {
   border-radius: 2px;
 }
 .modal-container .color-0 .return a {
-  border: 1px solid #b2bdff;
+  border: 1px solid #f39929;
 }
 .modal-container .color-1 .return a {
-  border: 1px solid #a9ffb5;
+  border: 1px solid #f39929;
 }
 .modal-container .color-2 .return a{
-  border: 1px solid #d7eef4;
+  border: 1px solid #f39929;
 }
 .modal-container .color-0 .title,
 .modal-container .color-0 .return a {
-  color: #b2bdff;
+  color: #f39929;
 }
 .modal-container .color-1 .title,
 .modal-container .color-1 .return a {
-  color: #a9ffb5;
+  color: #f39929;
 }
 .modal-container .color-2 .title,
 .modal-container .color-2 .return a {
-  color: #d7eef4;
+  color: #f39929;
 }
 .modal-container .color-0 .return a:hover {
   color: #555;
@@ -994,7 +995,7 @@ body.fluid {
   line-height: 1;
   text-align: center;
   color: #f0f0f0;
-  background-color: rgba(24, 34, 89, 0.8);
+  background-color: #f39929;
   border-radius: 4px;
   padding: 3px 20px;
   margin-bottom: 13px;
