@@ -20,7 +20,8 @@ active: true
           :base_index => 0,
           :modals_active => current_page.data.active,
           :gen_modal_html => false,
-          :compact => false } %>
+          :compact => false,
+          :sort_by_name => false } %>
   </div>
   <div class="row highlights">
     <%= partial "partials/lineup_grid", :locals => {
@@ -28,7 +29,8 @@ active: true
           :base_index => 0,
           :modals_active => current_page.data.active,
           :gen_modal_html => false,
-          :compact => true } %>
+          :compact => true,
+          :sort_by_name => false } %>
   </div>
   <div class="row">
   <div class="heading">Tutti gli Artisti</div>
@@ -37,7 +39,8 @@ active: true
         :base_index => 0,
         :modals_active => current_page.data.active,
         :gen_modal_html => true,
-        :compact => false } %>
+        :compact => false,
+        :sort_by_name => true } %>
   </div>
   <% if data.bands.extra %>
   <div class="more col-xs-12 col-sm-12 col-md-12">

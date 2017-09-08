@@ -1,4 +1,5 @@
-<% bands.sort_by{ |d| d["name"].downcase }.each_with_index do |data, index| %>
+<% band_array = sort_by_name ? bands.sort_by{ |d| d["name"].downcase } : bands %> 
+<% band_array.each_with_index do |data, index| %>
 <% index += base_index
    img_group_count = 20# download images in clusters of <img_group_count>
    name = data["name"].gsub(/[^a-zA-Z1-9]/,"").downcase
