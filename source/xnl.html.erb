@@ -49,18 +49,7 @@ main_header: true
     <%= include_markdown "data/festival-xnl-03.md" %>
     </div>
     <div class="org">
-      <div class="sponsors">
-        <h2 class="title">Sponsor</h2>
-        <ul class="logos">
-          <% data.logos.sponsors.each do |s| %>
-          <li>
-            <% link_to s.link, :target => "_blank", :rel => "noopener" do %>
-              <%= image_tag s.image, :class => "img-responsive" %>
-            <% end %>
-          </li>
-          <% end %>
-        </ul>
-      </div>
+      
       <div class="collaborations">
         <h2 class="title">Partners</h2>
         <ul class="logos">
