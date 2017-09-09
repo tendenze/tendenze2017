@@ -3,7 +3,7 @@
     - name: Portichetto
       schedule:
         - time: "19.00"
-          band: TEQUIERO EURIDICE
+          band: TE QUIERO EURIDICE
         - time: "19.30"
           band: WERNICKE APHASIA
         - time: "20.00"
@@ -44,9 +44,9 @@
         - time: "23.30"
           band: 
         - time: "00.00"
-          band: VISCERA|||
+          band: VISCERA///
 
-    - name: XNL Stage
+    - name: XNL festival stage
       schedule:
         - time: "19.00"
           band: HOUSE OF BASH SOUNDSYSTEM
@@ -76,7 +76,7 @@
         - time: "18.30"
           band: LOAD REJECTION
         - time: "19.00"
-          band: UNYLENCE
+          band: UNSYLENCE
         - time: "19.30"
           band: URAL
         - time: "20.00"
@@ -133,7 +133,7 @@
         - time: "01.00"
           band: 
 
-    - name: XNL Stage
+    - name: XNL festival stage
       schedule:
         - time: "18.30"
           band: HOUSE OF BASH SOUNDSYSTEM
@@ -146,9 +146,9 @@
         - time: "20.30"
           band: 
         - time: "21.00"
-          band:
-        - time: "21.30"
           band: SNEKULA
+        - time: "21.30"
+          band: 
         - time: "22.00"
           band: PABLITO EL DRITO
         - time: "22.30"
@@ -232,7 +232,7 @@
         - time: "01.00"
           band: 
           
-    - name: XNL Stage
+    - name: XNL festival stage
       schedule:
         - time: "18.00"
           band: HOUSE OF BASH SOUNDSYSTEM
@@ -247,15 +247,15 @@
         - time: "20.30"
           band: 
         - time: "21.00"
-          band:
-        - time: "21.30"
           band: KRANG
+        - time: "21.30"
+          band: 
         - time: "22.00"
-          band:
-        - time: "22.30"
           band: TEEEPEEE
+        - time: "22.30"
+          band: 
         - time: "23.00"
-          band: LOOP THERAPY
+          band: LOOP THERAPY FEAT HYST
         - time: "23.30"
           band: 
         - time: "00.00"
@@ -292,7 +292,7 @@
         - time: "21.30"
           band: STRATO'S
         - time: "22.00"
-          band: UNI NOISE AFTERSHOW
+          band: 
         - time: "22.30"
           band: DEAD MAN'S BLUES FUCKERS
         - time: "23.00"
@@ -340,7 +340,7 @@
         - time: "00.30"
           band: 
 
-    - name: Boschetto
+    - name: XNL festival stage
       schedule:
         - time: "16.30"
           band: HOUSE OF BASH SOUNDSYSTEM
@@ -353,9 +353,9 @@
         - time: "18.30"
           band: 
         - time: "19.00"
-          band: 
-        - time: "19.30"
           band: ALE VAGHI
+        - time: "19.30"
+          band: 
         - time: "20.00"
           band: DJ TODAY
         - time: "20.30"

@@ -1,9 +1,7 @@
 ---
 name: 05-workfoto
-title: 'WORKSHOP FOTOGRAFICO'
-banner: extra/workfoto.jpg
+title: 'XNL FESTIVAL 2°ed'
+banner: extra/xnl2.jpg
 ---
 
-<a href="https://www.facebook.com/repartoagitati.gruppofotocalendasco/" target="_blank" rel="noopener">Reparto Agitati Gruppo Foto Calendasco</a> sorveglierà coi suoi fotografi la giornata di domenica 18. Si tratta di un laboratorio rivolto a chiunque desideri migliorare e mettere alla prova le proprie competenze nel campo della fotografia applicata alla musica dal vivo.
-
-Per informazioni e iscrizioni rivolgersi alla mail  - <a href="mailto:info@repartoagitati.it">info@repartoagitati.it</a>
+L'eccezionale "reload" del festival elettronico e sperimentale trasformerà il tradizionale "boschetto" in una multiforme creatura a sè stante con 26 liveset/djset, una lineup ricca e importante, e un allestimento a sorpresa, fatto di installazioni curate da collettivo Praxis e associazione Rivularia (che imbelletteranno un po' tutto il festival con ideazioni esclusive), dal veejaying e dal video mapping targato Rorschach - Visual Project, senza dimenticare l'area beer-pong, games e quella chill rigovernate dal collettivo universitarioHouse of Bash International. 

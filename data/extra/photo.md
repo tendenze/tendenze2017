@@ -1,7 +1,7 @@
 ---
 name: 07-photo
-title: 'PHOTOSHOOTING'
-banner: extra/photo.jpg
+title: 'OFFI-CINE FOTO EDITION'
+banner: extra/officine.jpg
 ---
 
-I fotografi di <a href="https://www.facebook.com/fotosposi4you/" target="_blank" rel="noopener">Effetre Fotostudio</a> non solo documenteranno l'intero Tendenze per garantire un foto racconto dei concerti e di tutti i momenti più degni del festival ma offriranno a chiunque la possibilità di farsi ritrarre professionalmente in un piccolo set nonché di ricevere immediatamente la propria foto stampata.
+Il mitico autobus giallo, dopo due edizioni del concorso di video-making improvvisato, ospiterà una nuova appassionante sfida creativa a concorso aperta a tutti, incentrata stavolta sulla fotografia e legata ovviamente alla musica, ai temi e ai concetti del festival. Tutte le informazioni a breve! 

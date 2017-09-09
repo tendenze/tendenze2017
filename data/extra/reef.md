@@ -1,7 +1,7 @@
 ---
-name: 01-reef
-title: 'FOCUS ON: SOUNDREEF'
-banner: extra/reef.jpg
+name: 01-expo
+title: 'EXPO'
+banner: extra/expo.jpg
 ---
 
-Venerdì 16 dalle 18 alle 20 Tendenze invita tutti gli "addetti ai lavori" (musicisti, artisti, organizzatori di eventi, gestori di locali, editori...) ad un incontro / intervista / dibattito con i referenti di Soundreef, il gestore indipendente dei diritti d'autore alternativo alla Siae finito in questi mesi alla ribalta delle cronache dopo la decisione di Fedez, Kento, Gigi D'Alessio e Mastafive di lasciare la Società Italiana Autori Editori per passare a Soundreef. 
+Più di venti espositori, oltre ad associazioni, distro, etichette ed artisti, nei quattro giorni del festival daranno luce e colore ad un mercatino pieno di artigianato, creatività, musica e molto altro. Per conoscerli, visita la sezione "expo" del sito <a href="http://tendenze.net/expo" target="_blank" rel="noopener">Tendenze.net</a>  in costante aggiornamento! 

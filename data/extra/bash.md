@@ -1,9 +1,8 @@
 ---
 name: 04-bash
-title: 'HOUSE OF BASH'
-banner: extra/bash.jpg
+title: '6*3 ADV REHAB | STREET ART'
+banner: extra/adv.jpg
 ---
 
-Il collettivo degli universitari stranieri ed Erasmus piacentini sta affilando i suoi artigli. Sul festival al loro stand avrete la possibilità di intrattenervi e divertirvi ogni sera con uno o più giochi interattivi di abilità e di intelligenza ispirati all'universo dei college americani, e non solo. Programma in via di definizione. Tenetevi pronti per una serie di sfide senza esclusione di colpi.
-
+Gli artisti Filippo Garilli e DissensoCognitivo lavoreranno sui due tabelloni 6x3 abbandonati e arrugginiti che campeggiano mostruosi nel parco di Spazio4 per dare loro nuova vita. Riabilitare spazi e arredi urbani attraverso tutti i linguaggi della creatività, fa parte della nostra missione.
 

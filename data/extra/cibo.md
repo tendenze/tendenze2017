@@ -1,29 +1,22 @@
 ---
 name: 00-cibo
-title: 'MANGIARE A TENDENZE'
+title: 'I TRUCK FOOD'
 banner: extra/cibo.jpg
 ---
 
 Per soddisfare tutti i palati nei quattro giorni del festival abbiamo selezionato cinque postazioni truck / street food di prima scelta.
 
-* <a href="www.parkclubcodogno.it" target="_blank" rel="noopener">**Park Club**</a> (pizzeria)
-* **Camaron** (piadine)
-* <a href="https://www.facebook.com/Naturone-Piacenza-408116475986674/" target="_blank" rel="noopener">**Naturone Piacenza**</a> (vegan)
-  * SMILE (pane di riso, mozzarella di riso fumè, patè di olive nere, rucola e pomodoro fresco)
-  * SOSEITAN (pane di grano duro, seitan autoprodotto, maionese di soia con prezzemolo ed erba cipollina, insalata iceberg e pomodoro)
-  * VEGBURGERONE (burger di patate ceci e riso, zucchine trifolate, peperoni grigliati, salsa rosa e radicchio)
-* <a href="https://www.facebook.com/Bitter-Gastropub-668346923309010/" target="_blank" rel="noopener">**Bitter Gastropub**</a> (fritti)
-  * Chips di patate rosse
-  * Fish and chips
-  * Cono di pesce fritto
-* <a href="https://www.facebook.com/pages/Skiatos-Birreria/444862222240703" target="_blank" rel="noopener">**Skiatos Gourmaker**</a> (hamburger)
-  * CheeseBurger : Carne di Scottona, doppio cheddar, cipolla, ketchup
-  * BbqBurger : Carne di Scottona, cheddar, salsa bbq, cipolla, pomodoro, insalata
-  * PiacentinoBurger : Carne di Scottona, pomodoro, cipolla, cialda di grana padano, piccola di cavallo, insalata
-  * Patate dippers fritte
-* <a href="https://www.facebook.com/dalparmigiano" target="_blank" rel="noopener">**Dal Parmigiano Gourmet Street Food**</a>
-  * Torta fritta con prosciutto crudo di Parma
-  * Focaccina con prosciutto crudo di Parma
-  * Polpette parmigiane
-  * Hamburger di culatello
-  * Hamburger di cavallo
+* <a href="https://www.facebook.com/bacicciacafe/" target="_blank" rel="noopener">**BACICCIA**</a>: Burgers (classic, bismarck, green, fajitas con chili) - 
+Patatine fritte - 
+Anelli di cipolla fritta
+
+* <a href="https://www.facebook.com/ibaccala/" target="_blank" rel="noopener">**I BACCALA'**</a>: Fish & Chips - Totani e patate - Tomino in pastella e miele - Fiori di zucca ripieni - Patatine
+
+* <a href="https://www.facebook.com/SushitaFoodtruck/" target="_blank" rel="noopener">**SUSHITA**</a> Uramaki (varie preparazioni) - Ravioli al vapore - Edamame
+
+* <a href="https://www.facebook.com/Il-Panino-Gourmet-Piacenza-455870877871095/" target="_blank" rel="noopener">**IL PANINO GOURMET PIACENZA**</a> Panino classico con coppa o pancetta - Panino con porchetta di Ariccia "casa leoni" con peperoni al forno - Panino con prosciutto di praga brie e salsa rosa - Panino con mortadella "la favola palmieri" scaglie di grana e glassa di balsamico - Panino con crudo "devodier" rucola e squaccuerone
+
+* <a href="https://www.facebook.com/StreetFoodPeople " target="_blank" rel="noopener">**IL CAMIONCINO DI STREET FOOD PEOPLE PIACENZA**</a>
+... con il suo Cotechino da passeggio. More info soon :-)
+
+

@@ -1,0 +1,4 @@
+XNL Festival si adatta, muta, la creatura non si ferma, è tornata, pronta a stupirci. Quattro giornate per un totale di 26 liveset, djset, visual show, mapping, cultura elettronica, installazioni, giochi, creatività. E attorno altri due palchi da cui potersi nutrire, mercatini, interazione, cose buone da vedere, da sentire, da mangiare. Per ballare un po' e incontrarci. Esplorare nuovi panorami. Insieme. Nei meandri della techno, dell'hip-hop, della ricerca, della sperimentazione, delle sfumature di suono e delle vibrazioni che dettano il passo del terzo millennio.
+
+## #xnlfestival2017 
+## #XploreNewLandscapes
