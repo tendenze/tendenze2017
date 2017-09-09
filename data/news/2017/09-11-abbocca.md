@@ -1,0 +1,20 @@
+---
+title: ECCO IL FESTIVAL. ANZI, DUE!
+date: SAB 09.09.17
+image: festival1.jpg
+---
+
+Da giovedì 14 a domenica 17 settembre, la fine dell'estate più bella che si può. Allo Spazio4 di Piacenza i cancelli del festival aprono tutti i giorni alle 18, la domenica alle 16. L'ingresso è sempre rigorosamente libero e gratuito. Per quattro giorni trasformiamo il grande prato di via Manzoni 21 in una piccola città dei sogni. Salta in groppa, che è un bel mondo.
+
+### COSA TROVI A TENDENZE
+
+La possibilità di rimbalzare tra 3 diversi stage per un totale di circa 60 progetti artistici tra concerti, dj-set e live-set dai nostri territori, da tutta Italia e dall'Europa. Il meglio della scena indipendente internazionale, selezionato e composto con cura attraverso centinaia di ascolti e concerti tutto l'anno e attraverso il tradizionale percorso di auto-candidature (oltre 150 quest'anno). Un grande affresco sonoro in rappresentanza di tutti i generi musicali.
+Non solo musica, un variopinto caravanserraglio impreziosito da cinque postazioni truck-food di prima scelta e dalla storica zona expo con artigianato, banchetti, associazioni, vintage ed handmade, artisti, etichette, distro, poi ancora installazioni e interazione. Il sabato e la domenica la parte expo raddoppierà, apriremo una nuova area del festival destinata ad ospitare un'edizione straordinaria di SpazioStore, il mercatino del vinile e del riuso di associazione Sputnik.
+La più grande novità di quest'anno, in ogni caso, si chiama XNL Festival. La seconda edizione del nuovo festival di musica elettronica, sperimentale e contemporanea di Piacenza ha trovato casa nel boschetto di Spazio4 dopo essere stata "sfrattata" in maggio dalla sede di Palazzo Ex Enel, dove tutti speriamo possa tornare nel 2018. Tendenze + XNL, dunque, due festival in uno, perché #tendenze ed #XploreNewLandscapes sono due concetti che vanno terribilmente d'accordo.
+
+### FUORI I NOMI
+
+L'asso pigliatutto quest'anno si chiama nientemeno che WILLIE PEYOTE. Sui palchi del Carroponte e di Festa Radio Onda D'Urto ha dimostrato di essere il figlio migliore del nuovo rap d'autore italiano, quello buono. Un show suonato, contagioso e pieno di groove, un live tra i più belli della stagione che si chiude. Perché "i cani sono meglio delle persone che dicono che i cani sono meglio delle persone". Il Peyote salirà sul "main stage" di Tendenze 2017 nella terza serata, quella di sabato 16 settembre.
+Willie è "solo" la punta dell'iceberg, principe di una line-up ricca di concerti da non perdere. In volantino anche i nomi dei VALERIAN SWING: da Correggio a Tendenze nella prima serata di giovedì 14, i portabandiera del post-rock/post-metal tricolore porteranno il nuovissimo album "Nights" e una lineup rinnovata. Sempre giovedì, grande ritorno dei cremonesi VISCERA/// con un disco fresco di stampa, e il virtuoso chitarrista milanese FRANCESCO GAROLFI, bluesman moderno, un power trio smaliziato dall'impatto coriaceo.
+
+A far grande il venerdì sarà invece il particolarissimo stoner-folk dei bergamaschi LE CAPRE A SONAGLI, in compagnia dei migliori gruppi rock della scena nostrana, dallo stoner-rock dei RED SUN, reduci di trionfali tournée europee, alle atmosfere desertiche dei DA CAPTAIN TRIPS, dal personalissimo intruglio heavy delle SLUT MACHINE fresche di album (Irrational) al poderoso rock italiano degli ZEBRA FINK. Sabato al fianco di Willie si incontreranno anche perle di psichedelia, con i veneti MOTHER ISLAND e i mantovani YONIC SOUTH. Altrettanto potente si annuncia la domenica, al via già dalle 16 con tanti acustici ad accompagnare la vita del mercatino, raddoppiato grazie all'aggiunta della nuova area dedicata allo SpazioStore: sarà una domenica tempestata di chicche, dal nu-soul/nu-funk dei DENEB KAITOS al nuovo duo di Diego Potron, i DEAD MAN BLUES' FUCKERS, passando per il situazionismo dei LADY UBUNTU e per chiudere in grande stile con ben due ospitate dalla Francia, i LES DARLINGS, in pieno '60s garage-beat revival e i folli improvvisatori POIL, indescrivibili e imperdibili, entrambi per la prima volta in Italia.

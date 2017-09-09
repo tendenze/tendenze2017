@@ -20,4 +20,11 @@
       <% end %>
     <% end %>
   </div>
+  <div class="sponsors">
+    <% data.logos.hosting.each do |s| %>
+      <% link_to s.link, :class => "sp", :target => "_blank", :rel => "noopener"  do %>
+        <%= image_tag s.image_footer, :class => "img-responsive" %>
+      <% end %>
+    <% end %>
+  </div>
 </div>

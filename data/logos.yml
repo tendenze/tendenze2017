@@ -12,52 +12,50 @@ sponsors:
     image_footer: footer/footer-sponsor3.png
     link: http://www.e-coop.it/web/alleanza3-0/chi_siamo
 
+hosting:
+  - name: alphaville
+    image: footer/alphaville.png
+    image_footer: footer/alphaville.png
+    link: 
+  - name: gedinfo
+    image: logos/c-14.png
+    image_footer: logos/c-14.png
+    link: http://www.gedinfo.it/
+
 collaborators:
-  - name: arci
-    image: logos/c-01.png
-    link: http://www.arcipc.it/
-  - name: spazio 4
-    image: logos/c-02.png
-    link: https://www.facebook.com/pages/SPAZIO-4/174783259768
+  - name: praxis
+    image: logos/c-a.png
+    link: 
+  - name: rorschach
+    image: logos/c-b.png
+    link: 
   - name: audiozone
     image: logos/c-03.png
     link: https://www.facebook.com/AUDIOZONEstudios
-  - name: crowse20
-    image: logos/c-04.png
-    link: https://www.facebook.com/crowseventi
-  - name: sound bonico
-    image: logos/c-05.png
-    link: https://www.facebook.com/soundbonico
-  - name: desert fox records
-    image: logos/c-06.png
-    link: https://www.facebook.com/DesertFoxRecords
+  - name: house of bash
+    image: logos/c-c.png
+    link: https://www.facebook.com/AUDIOZONEstudios
   - name: orzo rock
     image: logos/c-07.png
     link: https://www.facebook.com/orzorockmusic
-  - name: elettroshoking
-    image: logos/c-08.png
-    link: https://www.facebook.com/Electroshocking
-  - name: uninoise
-    image: logos/c-09.png
-    link: https://www.facebook.com/uninoise/
   - name: soundround
     image: logos/c-10.png
     link:
   - name: spaziodue
     image: logos/c-11.png
     link: http://www.comune.piacenza.it/spazio2
-  - name: bus1
-    image: logos/c-12.png
-    link: http://www.festivalbeat.net/
-  - name: elfo
-    image: logos/c-13.png
-    link: http://www.elfostudio.com/
-  - name: gedinfo
-    image: logos/c-14.png
-    link: http://www.gedinfo.it/
+  - name: logo
+    image: logos/c-d.png
+    link: 
   - name: bangbang
     image: logos/c-15.png
     link: http://bangbangradio.it/
   - name: effetre
     image: logos/c-16.png
     link: https://www.facebook.com/fotosposi4you
+  - name: rxstnz
+    image: logos/c-e.png
+    link: 
+  - name: x
+    image: logos/c-f.png
+    link: 

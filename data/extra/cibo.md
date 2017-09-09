@@ -6,9 +6,7 @@ banner: extra/cibo.jpg
 
 Per soddisfare tutti i palati nei quattro giorni del festival abbiamo selezionato cinque postazioni truck / street food di prima scelta.
 
-* <a href="https://www.facebook.com/bacicciacafe/" target="_blank" rel="noopener">**BACICCIA**</a>: Burgers (classic, bismarck, green, fajitas con chili) - 
-Patatine fritte - 
-Anelli di cipolla fritta
+* <a href="https://www.facebook.com/bacicciacafe/" target="_blank" rel="noopener">**BACICCIA**</a>: - Burger Classic: carne di manzo, bacon, cipolla stufata, cheddar, insalata, ketchup,maionese - Burger Bismarck: carne di manzo, bacon, uova, pepe,  insalata pomodoro - Burger Green: patate, quinoa, semi di lino, crema di zucchine, cipolla stufata, scamorza affumicata - Fajitas con chili: tortillas, chili, guacamole, formaggio - Patatine fritte - Anelli di cipolla fritta
 
 * <a href="https://www.facebook.com/ibaccala/" target="_blank" rel="noopener">**I BACCALA'**</a>: Fish & Chips - Totani e patate - Tomino in pastella e miele - Fiori di zucca ripieni - Patatine
 

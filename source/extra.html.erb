@@ -6,7 +6,6 @@ title: Extra e Street Food Area
   <div class="extra-container col-xs-12 col-sm-12 col-md-12">
     <div class="heading"><%= current_page.data.title %></div>
     <div class="intro">
-      Per soddisfare tutti i palati nei quattro giorni del festival abbiamo selezionato cinque postazioni truck / street food di primissima scelta.
     </div>
     <% get_data_array("extra").sort_by{ |d| d["name"].downcase }.each do |data| %>
     <div class="exhibitor">

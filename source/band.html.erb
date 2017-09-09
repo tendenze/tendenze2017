@@ -17,8 +17,7 @@
       <% end %>
       </div>
       <div class="name title"><%= if data["fullname"] then data["fullname"] else data["name"] end %></div>
-      <div class="info genre"><span>GENERE -</span> <%= data["genre"] %></div>
-      <div class="info from"><span>DA -</span> <%= data["from"] %></div>
+
       <div class="info datetime"><span>DATA/ORA -</span> <%= data["date"] %> <%= !data["special"] ? 'alle ' : '' %><%= data["time"] %></div>
       <div class="info stage"><span>PALCO -</span> <%= data["stage"] %></div>
       <% if data["link"] %>

@@ -1,5 +1,5 @@
 ---
-name: 08-ops
+name: 07-ops
 title: 'PROGETTO OPS'
 banner: extra/ops.jpg
 ---

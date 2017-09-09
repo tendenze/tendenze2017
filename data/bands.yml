@@ -77,7 +77,7 @@ highlights:
     from: 
     date: Giovedì 14
     time: "22.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/scabb.jpg
     color: purple
     banner: bands/banners/scabb.jpg
@@ -90,7 +90,7 @@ highlights:
     from: 
     date: Giovedì 14
     time: "23.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/cigalini-tec.jpg
     color: green
     banner: bands/banners/cigalini-tec.jpg
@@ -127,7 +127,7 @@ highlights:
     from: 
     date: Venerdì 15
     time: "23.30"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/dead.jpg
     color: purple
     banner: bands/banners/dead.jpg
@@ -139,7 +139,7 @@ highlights:
     from: 
     date: Venerdì 15
     time: "22.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/pablito.jpg
     color: purple
     banner: bands/banners/pablito.jpg
@@ -152,7 +152,7 @@ highlights:
     from: 
     date: Venerdì 15
     time: "23.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/elep.jpg
     color: purple
     banner: bands/banners/elep.jpg
@@ -361,7 +361,7 @@ main:
     from: 
     date: Giovedì 14
     time: "22.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/scabb.jpg
     color: purple
     banner: bands/banners/scabb.jpg
@@ -374,7 +374,7 @@ main:
     from: 
     date: Giovedì 14
     time: "23.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/cigalini-tec.jpg
     color: green
     banner: bands/banners/cigalini-tec.jpg
@@ -411,7 +411,7 @@ main:
     from: 
     date: Venerdì 15
     time: "23.30"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/dead.jpg
     color: purple
     banner: bands/banners/dead.jpg
@@ -423,7 +423,7 @@ main:
     from: 
     date: Venerdì 15
     time: "22.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/pablito.jpg
     color: purple
     banner: bands/banners/pablito.jpg
@@ -436,7 +436,7 @@ main:
     from: 
     date: Venerdì 15
     time: "23.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/elep.jpg
     color: purple
     banner: bands/banners/elep.jpg
@@ -559,7 +559,7 @@ main:
     from: Piacenza
     date: Venerdì 16
     time: "18.45"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/alevaghi.jpg
     color: purple
     banner: bands/banners/alevaghi.jpg
@@ -812,7 +812,7 @@ main:
     from: 
     date: Giovedì 14 dalle 19.00 | Venerdì 15 dalle 18.00 | Sabato 16 dalle 18.00 | Domenica 17 dalle 16.00
     time: ""
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/house.jpg
     color: green
     banner: bands/banners/house.jpg
@@ -825,7 +825,7 @@ main:
     from: 
     date: Giovedì 14
     time: "20.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/wemadeit.jpg
     color: green
     banner: bands/banners/wemadeit.jpg
@@ -838,7 +838,7 @@ main:
     from: 
     date: Giovedì 14
     time: "00.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/techfood.jpg
     color: green
     banner: bands/banners/techfood.jpg
@@ -851,7 +851,7 @@ main:
     from: 
     date: Venerdì 15
     time: "20.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/lab.jpg
     color: green
     banner: bands/banners/lab.jpg
@@ -864,7 +864,7 @@ main:
     from: 
     date: Venerdì 15
     time: "21.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/snekula.jpg
     color: green
     banner: bands/banners/snekula.jpg
@@ -877,7 +877,7 @@ main:
     from: 
     date: Venerdì 15
     time: "00.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/pinza+lele.jpg
     color: green
     banner: bands/banners/pinza+lele.jpg
@@ -890,7 +890,7 @@ main:
     from: 
     date: Venerdì 15
     time: "01.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/sons.jpg
     color: green
     banner: bands/banners/sons.jpg
@@ -1035,7 +1035,7 @@ main:
     from: 
     date: Sabato 16
     time: "19.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/think.jpg
     color: green
     banner: bands/banners/think.jpg
@@ -1048,7 +1048,7 @@ main:
     from: 
     date: Sabato 16
     time: "22.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/tepe.jpg
     color: green
     banner: bands/banners/tepe.jpg
@@ -1061,7 +1061,7 @@ main:
     from: 
     date: Sabato 16
     time: "23.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/loop.jpg
     color: green
     banner: bands/banners/loop.jpg
@@ -1074,7 +1074,7 @@ main:
     from: 
     date: Sabato 16
     time: "00.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/blackat.jpg
     color: green
     banner: bands/banners/blackat.jpg
@@ -1087,7 +1087,7 @@ main:
     from: 
     date: Sabato 16
     time: "01.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/danielsan.jpg
     color: green
     banner: bands/banners/danielsan.jpg
@@ -1160,7 +1160,7 @@ main:
     from: 
     date: Domenica 17
     time: "19.00"
-    stage: Portichetto
+    stage: Main Stage
     thumbnail: bands/thumbs/candies.jpg
     color: green
     banner: bands/banners/candies.jpg
@@ -1220,7 +1220,7 @@ main:
     from: 
     date: Domenica 17
     time: "17.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/t.jpg
     color: green
     banner: bands/banners/t.jpg
@@ -1233,7 +1233,7 @@ main:
     from: 
     date: Domenica 17
     time: "20.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/dj.jpg
     color: green
     banner: bands/banners/dj.jpg
@@ -1246,7 +1246,7 @@ main:
     from: 
     date: Domenica 17
     time: "21.00"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/doc.jpg
     color: green
     banner: bands/banners/doc.jpg
@@ -1259,7 +1259,7 @@ main:
     from: 
     date: Domenica 17
     time: "21.45"
-    stage: Boschetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/plasman.jpg
     color: green
     banner: bands/banners/plasman.jpg
