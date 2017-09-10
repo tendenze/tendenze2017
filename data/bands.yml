@@ -1,7 +1,7 @@
 guests:
   - name: "VALERIAN SWING"
-    genre: 
-    from: 
+    genre: "Post-rock/post-metal/electro"
+    from: Correggio
     date: Giovedì 14
     time: "23.00"
     stage: Main Stage
@@ -61,8 +61,8 @@ highlights:
     embed: "https://youtu.be/JOkMkkFGRGA"
 
   - name: "I CONIGLI ROSA UCCIDONO"
-    genre: 
-    from: 
+    genre: "Electro-pop-wave"
+    from: Piacenza
     date: Giovedì 14
     time: "23.00"
     stage: Portichetto
@@ -73,8 +73,8 @@ highlights:
     embed: "https://www.youtube.com/watch?v=vYv7lbSsJKk"
 
   - name: "SCABB"
-    genre: 
-    from: 
+    genre: "Electro/experimental/visual"
+    from: Brescia
     date: Giovedì 14
     time: "22.00"
     stage: XNL Festival Stage
@@ -86,8 +86,8 @@ highlights:
     extra: "xnl"
 
   - name: "TECHFOOD feat MATTIA CIGALINI"
-    genre:
-    from: 
+    genre: "Electro/d'n'b + live sax terrorist"
+    from: Piacenza
     date: Giovedì 14
     time: "23.00"
     stage: XNL Festival Stage
@@ -273,8 +273,8 @@ highlights:
 main:
 
   - name: "VALERIAN SWING"
-    genre: 
-    from: 
+    genre: "Post-rock/post-metal/electro"
+    from: Correggio
     date: Giovedì 14
     time: "23.00"
     stage: Main Stage
@@ -568,8 +568,8 @@ main:
     extra: "xnl"
 
   - name: "MALADISSA"
-    genre: 
-    from: 
+    genre: "Mistico fottuto rock"
+    from: Piacenza
     date: Giovedì 14
     time: "20.00"
     stage: Main Stage
@@ -580,8 +580,8 @@ main:
     embed: "https://youtu.be/Zlmd5mn3Lbg"
 
   - name: "NAGUAL"
-    genre: 
-    from: 
+    genre: "Hard/prog rock"
+    from: Piacenza
     date: Giovedì 14
     time: "21.00"
     stage: Main Stage
@@ -592,8 +592,8 @@ main:
     embed: "https://youtu.be/Hd4LUYniagI"
 
   - name: "FRANCESCO GAROLFI POWER TRIO"
-    genre: 
-    from: 
+    genre: "Blues rock"
+    from: Milano
     date: Giovedì 14
     time: "22.00"
     stage: Main Stage
@@ -604,8 +604,8 @@ main:
     embed: ""
 
   - name: "VISCERA///"
-    genre: 
-    from: 
+    genre: "Metal/psych"
+    from: Cremona
     date: Giovedì 14
     time: "00.00"
     stage: Main Stage
@@ -652,8 +652,8 @@ main:
     embed: "https://youtu.be/c1Y4xYZJiIw"
 
   - name: "TE QUIERO EURIDICE"
-    genre: 
-    from: 
+    genre: "Pop rock d'autore"
+    from: Piacenza
     date: Giovedì 14
     time: "19.00"
     stage: Portichetto
@@ -748,8 +748,8 @@ main:
     embed: ""
 
   - name: "WERNICKE APHASIA"
-    genre: 
-    from: 
+    genre: "Hard/Prog rock"
+    from: Piacenza
     date: Giovedì 14
     time: "19.30"
     stage: Portichetto
@@ -760,8 +760,8 @@ main:
     embed: "https://youtu.be/K-GaG4CFQ7E?t=40s"
 
   - name: "SANTAMADDALENA"
-    genre: 
-    from: 
+    genre: "Post-grunge"
+    from: Piacenza
     date: Giovedì 14
     time: "20.30"
     stage: Portichetto
@@ -772,8 +772,8 @@ main:
     embed: "https://youtu.be/LzmXYepsjBQ"
 
   - name: "BUZZOOKO"
-    genre: 
-    from: 
+    genre: "Post-rock"
+    from: Mantova
     date: Giovedì 14
     time: "21.30"
     stage: Portichetto
@@ -784,8 +784,8 @@ main:
     embed: "https://youtu.be/yfhp1ZbNro4"
 
   - name: "ZENDEN SAN"
-    genre: 
-    from: 
+    genre: "Math-funk"
+    from: Cremona
     date: Giovedì 14
     time: "22.30"
     stage: Portichetto
@@ -796,8 +796,8 @@ main:
     embed: "https://youtu.be/JOkMkkFGRGA"
 
   - name: "VINILE CON STILE"
-    genre: 
-    from: 
+    genre: "Dj set"
+    from: Piacenza
     date: Giovedì 14
     time: "00.00"
     stage: Portichetto
@@ -808,8 +808,8 @@ main:
     embed: "https://youtu.be/UMPC8QJF6sI"
 
   - name: "HOUSE OF BASH SOUNDSYSTEM"
-    genre: 
-    from: 
+    genre: "Aperitif/happy hour/games"
+    from: Piacenza
     date: Giovedì 14 dalle 19.00 | Venerdì 15 dalle 18.00 | Sabato 16 dalle 18.00 | Domenica 17 dalle 16.00
     time: ""
     stage: XNL Festival Stage
@@ -821,8 +821,8 @@ main:
     extra: "xnl"
 
   - name: "WE MADE IT"
-    genre: 
-    from: 
+    genre: "Trap/dubstep/prog-house"
+    from: Piacenza
     date: Giovedì 14
     time: "20.00"
     stage: XNL Festival Stage
@@ -834,8 +834,8 @@ main:
     extra: "xnl"
 
   - name: "TECHFOOD djset"
-    genre: 
-    from: 
+    genre: "Electro/trap/dubstep"
+    from: Piacenza
     date: Giovedì 14
     time: "00.00"
     stage: XNL Festival Stage
