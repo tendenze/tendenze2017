@@ -12,8 +12,8 @@ guests:
     embed: "https://youtu.be/vbCikXBIEXc"
 
   - name: "LE CAPRE A SONAGLI"
-    genre: 
-    from: 
+    genre: "Stoner-folk"
+    from: Bergamo
     date: Venerdì 15
     time: "00.00"
     stage: Main Stage
@@ -99,8 +99,8 @@ highlights:
     extra: "xnl"
 
   - name: "RED SUN"
-    genre: 
-    from: 
+    genre: "Psych-stoner"
+    from: Albone
     date: Venerdì 15
     time: "22.30"
     stage: Portichetto
@@ -123,8 +123,8 @@ highlights:
     embed: "https://youtu.be/Y9did82pelI"
 
   - name: "DEAD IN A CLUB"
-    genre: 
-    from: 
+    genre: "Blank wave"
+    from: "Piacenza/San Rocco"
     date: Venerdì 15
     time: "23.30"
     stage: XNL Festival Stage
@@ -135,8 +135,8 @@ highlights:
     embed: "https://deadinaclub.bandcamp.com/"
 
   - name: "PABLITO EL DRITO"
-    genre: 
-    from: 
+    genre: "Techno/8-bit"
+    from: Milano
     date: Venerdì 15
     time: "22.00"
     stage: XNL Festival Stage
@@ -285,8 +285,8 @@ main:
     embed: "https://youtu.be/vbCikXBIEXc"
 
   - name: "LE CAPRE A SONAGLI"
-    genre: 
-    from: 
+    genre: "Stoner-folk"
+    from: Bergamo
     date: Venerdì 15
     time: "00.00"
     stage: Main Stage
@@ -419,8 +419,8 @@ main:
     embed: "https://deadinaclub.bandcamp.com/"
 
   - name: "PABLITO EL DRITO"
-    genre: 
-    from: 
+    genre: "Techno/8-bit"
+    from: Milano
     date: Venerdì 15
     time: "22.00"
     stage: XNL Festival Stage
@@ -432,8 +432,8 @@ main:
     extra: "xnl"
 
   - name: "ELEPHANTIDES"
-    genre: 
-    from: 
+    genre: "Techno-jazz"
+    from: "Roma/Cuneo"
     date: Venerdì 15
     time: "23.00"
     stage: XNL Festival Stage
@@ -616,8 +616,8 @@ main:
     embed: "https://youtu.be/niK776xMSI8"
 
   - name: "FLIDGE"
-    genre: 
-    from: 
+    genre: "Indie/alt-rock"
+    from: Piacenza
     date: Venerdì 15
     time: "20.00"
     stage: Main Stage
@@ -628,8 +628,8 @@ main:
     embed: "https://youtu.be/M01VVClKwAA"
 
   - name: "ELECTRIC SWAN"
-    genre: 
-    from: 
+    genre: "'70s hard-rock"
+    from: Piacenza
     date: Venerdì 15
     time: "21.00"
     stage: Main Stage
@@ -640,8 +640,8 @@ main:
     embed: "https://youtu.be/Spi0pyHwkuo"
 
   - name: "SONDAG"
-    genre: 
-    from: 
+    genre: "Low-tuned rock"
+    from: Piacenza
     date: Venerdì 15
     time: "22.00"
     stage: Main Stage
@@ -664,8 +664,8 @@ main:
     embed: ""
 
   - name: "LOAD REJECTION"
-    genre: 
-    from: 
+    genre: "Rock/crossover"
+    from: "San Rocco al Porto"
     date: Venerdì 15
     time: "18.30"
     stage: Portichetto
@@ -676,8 +676,8 @@ main:
     embed: ""
 
   - name: "UNSYLENCE"
-    genre: 
-    from: 
+    genre: "Electrocore/alt-metal"
+    from: "Piacenza/Milano"
     date: Venerdì 15
     time: "19.00"
     stage: Portichetto
@@ -688,8 +688,8 @@ main:
     embed: "https://youtu.be/ERpHfXPREOM"
 
   - name: "URAL"
-    genre: 
-    from: 
+    genre: "Thrash-metal/crossover"
+    from: "Piacenza/Torino"
     date: Venerdì 15
     time: "19.30"
     stage: Portichetto
@@ -700,8 +700,8 @@ main:
     embed: "https://youtu.be/YIuM_CUztXs"
 
   - name: "DHUNE"
-    genre: 
-    from: 
+    genre: "Rock-metal"
+    from: Piacenza
     date: Venerdì 15
     time: "20.30"
     stage: Portichetto
@@ -712,8 +712,8 @@ main:
     embed: "https://youtu.be/Z0Br8SP3oiw"
 
   - name: "SLUT MACHINE"
-    genre: 
-    from: 
+    genre: "Heavy female trio"
+    from: "Lodi/Milano"
     date: Venerdì 15
     time: "21.30"
     stage: Portichetto
@@ -724,8 +724,8 @@ main:
     embed: "https://youtu.be/SNkCuLcEz-U"
 
   - name: "IL PHARAONE"
-    genre: 
-    from: 
+    genre: "Rap-rock/crossover/trap"
+    from: Cremona
     date: Venerdì 15
     time: "00.30"
     stage: Portichetto
@@ -736,8 +736,8 @@ main:
     embed: "https://youtu.be/WZgJfk7NTrU"
 
   - name: "SCARECROW"
-    genre: DJSET
-    from: 
+    genre: "DJ Set hip-hop/breakbeat/d'n'b"
+    from: Piacenza
     date: Venerdì 15
     time: "01.00"
     stage: Portichetto
@@ -847,8 +847,8 @@ main:
     extra: "xnl"
 
   - name: "LAB.YRINTH meets CEZKO"
-    genre: 
-    from: 
+    genre: "Techno Berlin"
+    from: Piacenza
     date: Venerdì 15
     time: "20.00"
     stage: XNL Festival Stage
@@ -860,8 +860,8 @@ main:
     extra: "xnl"
 
   - name: "SNEKULA"
-    genre: 
-    from: 
+    genre: "Concrete/ambient/noise"
+    from: Piacenza
     date: Venerdì 15
     time: "21.00"
     stage: XNL Festival Stage
@@ -886,8 +886,8 @@ main:
     extra: "xnl"
 
   - name: "SONS OF ROBOTS"
-    genre: 
-    from: 
+    genre: "Techno"
+    from: Lodi
     date: Venerdì 15
     time: "01.00"
     stage: XNL Festival Stage
