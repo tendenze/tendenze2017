@@ -280,7 +280,7 @@
         - time: "18.30"
           band: DASF ACT
         - time: "19.00"
-          band: CANDIES FOR BREAKFAST
+          band: 
         - time: "19.30"
           band: SUNDAY IN SOARZA
         - time: "20.00"
@@ -316,7 +316,7 @@
         - time: "18.30"
           band: 
         - time: "19.00"
-          band: 
+          band: CANDIES FOR BREAKFAST
         - time: "19.30"
           band: 
         - time: "20.00"

@@ -214,7 +214,7 @@ highlights:
     from: 
     date: Sabato 16
     time: "23.00"
-    stage: Portichetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/loop.jpg
     color: purple
     banner: bands/banners/loop.jpg
@@ -348,7 +348,7 @@ main:
     genre: 
     from: 
     date: Giovedì 14
-    time: "23.00"
+    time: "23.30"
     stage: Portichetto
     thumbnail: bands/thumbs/conigli.jpg
     color: blue
@@ -411,7 +411,7 @@ main:
     from: 
     date: Venerdì 15
     time: "23.30"
-    stage: XNL Festival Stage
+    stage: Portichetto
     thumbnail: bands/thumbs/dead.jpg
     color: purple
     banner: bands/banners/dead.jpg
@@ -485,7 +485,7 @@ main:
     from: 
     date: Sabato 16
     time: "21.00"
-    stage: Portichetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/krang.jpg
     color: purple
     banner: bands/banners/krang.jpg
@@ -498,7 +498,7 @@ main:
     from: 
     date: Sabato 16
     time: "23.00"
-    stage: Portichetto
+    stage: XNL Festival Stage
     thumbnail: bands/thumbs/loop.jpg
     color: purple
     banner: bands/banners/loop.jpg
@@ -557,8 +557,8 @@ main:
   - name: "ALE VAGHI"
     genre: Deep-House/Minimal-Techno
     from: Piacenza
-    date: Venerdì 16
-    time: "18.45"
+    date: Domenica 17
+    time: "19.00 e 23.00"
     stage: XNL Festival Stage
     thumbnail: bands/thumbs/alevaghi.jpg
     color: purple
@@ -603,7 +603,7 @@ main:
     link: "https://www.facebook.com/garolfifrancesco"
     embed: ""
 
-  - name: "VISCERA|||"
+  - name: "VISCERA///"
     genre: 
     from: 
     date: Giovedì 14
@@ -799,7 +799,7 @@ main:
     genre: 
     from: 
     date: Giovedì 14
-    time: "00.30"
+    time: "00.00"
     stage: Portichetto
     thumbnail: bands/thumbs/vinilestile.jpg
     color: green
@@ -1056,19 +1056,6 @@ main:
     embed: "https://soundcloud.com/teeeeepeeeee"
     extra: "xnl"
 
-  - name: "LOOP THERAPY"
-    genre: 
-    from: 
-    date: Sabato 16
-    time: "23.00"
-    stage: XNL Festival Stage
-    thumbnail: bands/thumbs/loop.jpg
-    color: green
-    banner: bands/banners/loop.jpg
-    link: "https://www.facebook.com/LoopTherapy"
-    embed: "https://youtu.be/6rwg2vQAwK4?t=48s"
-    extra: "xnl"
-
   - name: "BLACKAT CREW"
     genre: 
     from: 
@@ -1105,7 +1092,7 @@ main:
     color: green
     banner: bands/banners/kick.jpg
     link: "https://www.facebook.com/delatesband"
-    embed: "https://youtu.be/KY6AJszEoac"
+    embed: "https://youtu.be/drbHVMF2D94"
 
   - name: "MARCO SUTTI"
     genre: 
