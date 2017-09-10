@@ -111,6 +111,7 @@ ready do
     end
   end
 
+  gen_news_pages("news", "2017")
   gen_news_pages("news", "2016")
   gen_news_pages("news", "2015")
 end
