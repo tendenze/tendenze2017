@@ -24,8 +24,8 @@ guests:
     embed: "https://youtu.be/Kk1NioXuyBM"
 
   - name: "WILLIE PEYOTE"
-    genre: 
-    from: 
+    genre: "Hip-hop"
+    from: Torino
     date: Sabato 16
     time: "00.00"
     stage: Main Stage
@@ -36,8 +36,8 @@ guests:
     embed: "https://youtu.be/dz8-ojXFsrg"
 
   - name: "LES DARLINGS (FR)"
-    genre: 
-    from: 
+    genre: "'60s Garage/rock'n'roll"
+    from: Francia
     date: Domenica 16
     time: "23.00"
     stage: Main Stage
@@ -49,8 +49,8 @@ guests:
 
 highlights:
   - name: "ZENDEN SAN"
-    genre: 
-    from: 
+    genre: "Math-funk"
+    from: Cremona
     date: Giovedì 14
     time: "22.30"
     stage: Portichetto
@@ -161,8 +161,8 @@ highlights:
     extra: "xnl"
 
   - name: "OTHERBROTHER"
-    genre: 
-    from: 
+    genre: "Hip-hop"
+    from: Piacenza
     date: Sabato 16
     time: "21.30"
     stage: Portichetto
@@ -173,8 +173,8 @@ highlights:
     embed: "https://youtu.be/QEtKXljTLFA"
 
   - name: "DA CAPTAIN TRIPS"
-    genre: 
-    from: 
+    genre: "Psych/jammed-rock"
+    from: Piacenza
     date: Sabato 16
     time: "22.00"
     stage: Main Stage
@@ -185,8 +185,8 @@ highlights:
     embed: "https://youtu.be/1v2pLQv4DUI?t=6m28s"
 
   - name: "MOTHER ISLAND"
-    genre: 
-    from: 
+    genre: "Psichedelia"
+    from: Piacenza
     date: Sabato 16
     time: "23.00"
     stage: Main Stage
@@ -197,8 +197,8 @@ highlights:
     embed: "https://youtu.be/voAq5XBmTCI"
 
   - name: "KRANG"
-    genre: 
-    from: 
+    genre: "Technodrome"
+    from: Milano
     date: Sabato 16
     time: "21.00"
     stage: Portichetto
@@ -210,8 +210,8 @@ highlights:
     extra: "xnl"
 
   - name: "LOOP THERAPY feat HYST"
-    genre: 
-    from: 
+    genre: "Hip-hop/jazz/funk/soul"
+    from: "Milano/Torino"
     date: Sabato 16
     time: "23.00"
     stage: XNL Festival Stage
@@ -223,8 +223,8 @@ highlights:
     extra: "xnl"
 
   - name: "DENEB KAITOS"
-    genre: 
-    from: 
+    genre: "Future-soul/breakbeat/nu-funk"
+    from: Milano
     date: Domenica 17
     time: "22.00"
     stage: Main Stage
@@ -235,8 +235,8 @@ highlights:
     embed: "https://youtu.be/87tBg678uAE"
 
   - name: "THE MINIS"
-    genre: 
-    from: 
+    genre: "r'n'r/r'n'b/mod-punk"
+    from: Torino
     date: Domenica 17
     time: "21.00"
     stage: Main Stage
@@ -247,8 +247,8 @@ highlights:
     embed: "https://www.youtube.com/watch?v=B43CFSDTqQ4"
 
   - name: "LADY UBUNTU"
-    genre: 
-    from: 
+    genre: "Dolci amare musichette del nulla"
+    from: Alessandria
     date: Domenica 17
     time: "23.30"
     stage: Portichetto
@@ -259,8 +259,8 @@ highlights:
     embed: "https://www.youtube.com/watch?v=E9wgr1CKDes"
 
   - name: "POIL (FR)"
-    genre: 
-    from: 
+    genre: "Superhero big beat surf"
+    from: Francia
     date: Domenica 17
     time: "00.00"
     stage: Main Stage
@@ -297,8 +297,8 @@ main:
     embed: "https://youtu.be/Kk1NioXuyBM"
 
   - name: "WILLIE PEYOTE"
-    genre: 
-    from: 
+    genre: "Hip-hop"
+    from: Torino
     date: Sabato 16
     time: "00.00"
     stage: Main Stage
@@ -309,8 +309,8 @@ main:
     embed: "https://youtu.be/dz8-ojXFsrg"
 
   - name: "LES DARLINGS (FR)"
-    genre: 
-    from: 
+    genre: "'60s Garage/rock'n'roll"
+    from: Francia
     date: Domenica 16
     time: "23.00"
     stage: Main Stage
@@ -321,8 +321,8 @@ main:
     embed: "https://youtu.be/uU3_31AeiAc"
 
   - name: "DEAD MAN'S BLUES FUCKERS"
-    genre: 
-    from: 
+    genre: "Stoner-desert-blues"
+    from: Brianza
     date: Domenica 16
     time: "22.30"
     stage: Portichetto
@@ -333,8 +333,8 @@ main:
     embed: "https://youtu.be/VG-kDf72PC0"
 
   - name: "ALESSANDRO ZANOLINI"
-    genre: 
-    from: 
+    genre: "Cantautore"
+    from: Piacenza
     date: Domenica 16
     time: "16.30"
     stage: Portichetto
@@ -345,8 +345,8 @@ main:
     embed: "https://youtu.be/T52L89AG8pI"
 
   - name: "I CONIGLI ROSA UCCIDONO"
-    genre: 
-    from: 
+    genre: "Electro-pop-wave"
+    from: Piacenza
     date: Giovedì 14
     time: "23.30"
     stage: Portichetto
@@ -357,8 +357,8 @@ main:
     embed: "https://www.youtube.com/watch?v=vYv7lbSsJKk"
 
   - name: "SCABB"
-    genre: 
-    from: 
+    genre: "Electro/experimental/visual"
+    from: Brescia
     date: Giovedì 14
     time: "22.00"
     stage: XNL Festival Stage
@@ -370,8 +370,8 @@ main:
     extra: "xnl"
 
   - name: "TECHFOOD feat MATTIA CIGALINI"
-    genre:
-    from: 
+    genre: "Electro/d'n'b + live sax terrorist"
+    from: Piacenza
     date: Giovedì 14
     time: "23.00"
     stage: XNL Festival Stage
@@ -383,8 +383,8 @@ main:
     extra: "xnl"
 
   - name: "RED SUN"
-    genre: 
-    from: 
+    genre: "Psych-stoner"
+    from: Albone
     date: Venerdì 15
     time: "22.30"
     stage: Portichetto
@@ -407,8 +407,8 @@ main:
     embed: "https://youtu.be/Y9did82pelI"
 
   - name: "DEAD IN A CLUB"
-    genre: 
-    from: 
+    genre: "Blank wave"
+    from: "Piacenza/San Rocco"
     date: Venerdì 15
     time: "23.30"
     stage: Portichetto
@@ -507,8 +507,8 @@ main:
     extra: "xnl"
 
   - name: "DENEB KAITOS"
-    genre: 
-    from: 
+    genre: "Future-soul/breakbeat/nu-funk"
+    from: Milano
     date: Domenica 17
     time: "22.00"
     stage: Main Stage
@@ -519,8 +519,8 @@ main:
     embed: "https://youtu.be/87tBg678uAE"
 
   - name: "THE MINIS"
-    genre: 
-    from: 
+    genre: "r'n'r/r'n'b/mod-punk"
+    from: Torino
     date: Domenica 17
     time: "21.00"
     stage: Main Stage
@@ -531,8 +531,8 @@ main:
     embed: "https://www.youtube.com/watch?v=B43CFSDTqQ4"
 
   - name: "LADY UBUNTU"
-    genre: 
-    from: 
+    genre: "Dolci amare musichette del nulla"
+    from: Alessandria
     date: Domenica 17
     time: "23.30"
     stage: Portichetto
@@ -543,8 +543,8 @@ main:
     embed: "https://www.youtube.com/watch?v=E9wgr1CKDes"
 
   - name: "POIL (FR)"
-    genre: 
-    from: 
+    genre: "Superhero big beat surf"
+    from: Francia
     date: Domenica 17
     time: "00.00"
     stage: Main Stage
@@ -899,8 +899,8 @@ main:
     extra: "xnl"
 
   - name: "ARBOS"
-    genre: 
-    from: 
+    genre: "Post-wave/punk"
+    from: Genova
     date: Sabato 16
     time: "20.00"
     stage: Main Stage
@@ -911,8 +911,8 @@ main:
     embed: "https://youtu.be/-fXQJJLs2iQ"
 
   - name: "BLUGRANA"
-    genre: 
-    from: 
+    genre: "Pop-rock d'autore"
+    from: Piacenza
     date: Sabato 16
     time: "21.00"
     stage: Main Stage
@@ -923,8 +923,8 @@ main:
     embed: "https://youtu.be/XsC3cJmZQM8"
 
   - name: "INFECTED"
-    genre: 
-    from: 
+    genre: "Thrash/death/groove metal"
+    from: Piacenza
     date: Sabato 16
     time: "18.00"
     stage: Portichetto
@@ -935,8 +935,8 @@ main:
     embed: "https://youtu.be/WhXMUDprWAc"
 
   - name: "DIONEA"
-    genre: 
-    from: 
+    genre: "Rock italiano"
+    from: Piacenza
     date: Sabato 16
     time: "18.30"
     stage: Portichetto
@@ -947,8 +947,8 @@ main:
     embed: "https://youtu.be/5Q2pFFS-idI"
 
   - name: "WITHOUT PASSPORTS "
-    genre: 
-    from: 
+    genre: "Hard/stoner rock"
+    from: Piacenza
     date: Sabato 16
     time: "19.00"
     stage: Portichetto
@@ -959,8 +959,8 @@ main:
     embed: "https://soundcloud.com/withoutpassports"
 
   - name: "LOTS"
-    genre: 
-    from: 
+    genre: "Pop-rock acustico"
+    from: Piacenza
     date: Sabato 16
     time: "19.30"
     stage: Portichetto
@@ -971,8 +971,8 @@ main:
     embed: "https://youtu.be/HAg6wW2Zc8g?t=54s"
 
   - name: "CIELI NERI SOPRA TORINO"
-    genre: 
-    from: 
+    genre: "Alt-rock"
+    from: Acqui Terme
     date: Sabato 16
     time: "20.30"
     stage: Portichetto
@@ -983,8 +983,8 @@ main:
     embed: "https://youtu.be/xwD3we7SpOs"
 
   - name: "YONIC SOUTH"
-    genre: 
-    from: 
+    genre: "Psych-garage"
+    from: Mantova
     date: Sabato 16
     time: "22.30"
     stage: Portichetto
@@ -995,8 +995,8 @@ main:
     embed: "https://youtu.be/ZVnYYIS0zf0"
 
   - name: "TELEMACHOS TELEGRAPH"
-    genre: 
-    from: 
+    genre: "Hip-hop/funk"
+    from: "Piacenza/Cremona"
     date: Sabato 16
     time: "23.30"
     stage: Portichetto
@@ -1007,8 +1007,8 @@ main:
     embed: ""
 
   - name: "TRIMANTRA"
-    genre: 
-    from: 
+    genre: "Sperimentale"
+    from: Piacenza
     date: Sabato 16
     time: "00.30"
     stage: Portichetto
@@ -1019,8 +1019,8 @@ main:
     embed: ""
 
   - name: "SUNWISE SOUND"
-    genre: 
-    from: 
+    genre: "Reggae/dancehall"
+    from: Piacenza
     date: Sabato 16
     time: "01.00"
     stage: Portichetto
@@ -1031,8 +1031,8 @@ main:
     embed: ""
 
   - name: "THINK'D x LTD COLOURS"
-    genre: 
-    from: 
+    genre: "360° bass music"
+    from: Milano
     date: Sabato 16
     time: "19.00"
     stage: XNL Festival Stage
@@ -1044,8 +1044,8 @@ main:
     extra: "xnl"
 
   - name: "TEEEPEEE"
-    genre: 
-    from: 
+    genre: "Lo-fi & urban beats"
+    from: Piacenza
     date: Sabato 16
     time: "22.00"
     stage: XNL Festival Stage
@@ -1057,8 +1057,8 @@ main:
     extra: "xnl"
 
   - name: "BLACKAT CREW"
-    genre: 
-    from: 
+    genre: "Techno/electro"
+    from: Piacenza
     date: Sabato 16
     time: "00.00"
     stage: XNL Festival Stage
@@ -1070,8 +1070,8 @@ main:
     extra: "xnl"
 
   - name: "DANIELSAN"
-    genre: 
-    from: 
+    genre: "Electro-house/progressive"
+    from: Piacenza
     date: Sabato 16
     time: "01.00"
     stage: XNL Festival Stage
@@ -1083,8 +1083,8 @@ main:
     extra: "xnl"
 
   - name: "KICKSTARTER RITUAL"
-    genre: 
-    from: 
+    genre: "Rock'n'roll"
+    from: Piacenza
     date: Domenica 17
     time: "20.00"
     stage: Main Stage
@@ -1095,8 +1095,8 @@ main:
     embed: "https://youtu.be/drbHVMF2D94"
 
   - name: "MARCO SUTTI"
-    genre: 
-    from: 
+    genre: "Cantautore"
+    from: Piacenza
     date: Domenica 17
     time: "17.00"
     stage: Portichetto
@@ -1107,8 +1107,8 @@ main:
     embed: "https://youtu.be/KY6AJszEoac"
 
   - name: "CLAUDIA IS ON THE SOFA"
-    genre: 
-    from: 
+    genre: "Cantautrice"
+    from: Brescia
     date: Domenica 17
     time: "17.30"
     stage: Portichetto
@@ -1119,8 +1119,8 @@ main:
     embed: "https://youtu.be/HSn4gKzt-V0"
 
   - name: "OYKU"
-    genre: 
-    from: 
+    genre: "Cantautrice"
+    from: "Piacenza (Turchia)"
     date: Domenica 17
     time: "18.00"
     stage: Portichetto
@@ -1131,8 +1131,8 @@ main:
     embed: "https://youtu.be/BZif6yUHa8o"
  
   - name: "DASF ACT"
-    genre: 
-    from: 
+    genre: "hard-rock"
+    from: Piacenza
     date: Domenica 17
     time: "18.30"
     stage: Portichetto
@@ -1143,8 +1143,8 @@ main:
     embed: ""
 
   - name: "CANDIES FOR BREAKFAST"
-    genre: 
-    from: 
+    genre: "Rock"
+    from: Cremona
     date: Domenica 17
     time: "19.00"
     stage: Main Stage
@@ -1155,8 +1155,8 @@ main:
     embed: "https://youtu.be/ChsjQ_XIKYg"
 
   - name: "SUNDAY IN SOARZA"
-    genre: 
-    from: 
+    genre: "Alt-rock"
+    from: Piacenza
     date: Domenica 17
     time: "19.30"
     stage: Portichetto
@@ -1167,8 +1167,8 @@ main:
     embed: "https://youtu.be/5W7psrlBSlk"
 
   - name: "THE STRIKES"
-    genre: 
-    from: 
+    genre: "Joe Croci's rock'n'roll trio"
+    from: Fiorenzuola
     date: Domenica 17
     time: "20.30"
     stage: Portichetto
@@ -1179,8 +1179,8 @@ main:
     embed: "https://youtu.be/Hf3JVYLYUEk"
 
   - name: "STRATO'S"
-    genre: 
-    from: 
+    genre: "Cinematic/thrilling/sexy"
+    from: Parma
     date: Domenica 17
     time: "21.30"
     stage: Portichetto
@@ -1191,8 +1191,8 @@ main:
     embed: "https://youtu.be/g_hfHCJUjPI"
 
   - name: "LES FUFIES AND THE RUBBISH"
-    genre: 
-    from: 
+    genre: "The very after party"
+    from: Piacenza
     date: Domenica 17
     time: "00.30"
     stage: Portichetto
@@ -1203,8 +1203,8 @@ main:
     embed: ""
 
   - name: "MAURO TITANIO"
-    genre: 
-    from: 
+    genre: "Tellutronica/electro/ethnic"
+    from: Piacenza
     date: Domenica 17
     time: "17.00"
     stage: XNL Festival Stage
@@ -1216,8 +1216,8 @@ main:
     extra: "xnl"  
 
   - name: "DJ TODAY"
-    genre: 
-    from: 
+    genre: "Freshness"
+    from: Piacenza
     date: Domenica 17
     time: "20.00"
     stage: XNL Festival Stage
@@ -1229,8 +1229,8 @@ main:
     extra: "xnl"  
 
   - name: "DOC LUDEN LOOKSHARP"
-    genre: 
-    from: 
+    genre: "Madness"
+    from: Pavia
     date: Domenica 17
     time: "21.00"
     stage: XNL Festival Stage
@@ -1242,8 +1242,8 @@ main:
     extra: "xnl"
 
   - name: "PLASMAN 51"
-    genre: 
-    from: 
+    genre: "Vinyl/techno/experimental"
+    from: Milano
     date: Domenica 17
     time: "21.45"
     stage: XNL Festival Stage
