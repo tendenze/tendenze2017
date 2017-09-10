@@ -111,8 +111,8 @@ highlights:
     embed: "https://youtu.be/Dnap6v5zWGY"
 
   - name: "ZEBRA FINK"
-    genre: 
-    from: 
+    genre: "Rock"
+    from: Piacenza
     date: Venerdì 15
     time: "23.00"
     stage: Main Stage
@@ -148,8 +148,8 @@ highlights:
     extra: "xnl"
 
   - name: "ELEPHANTIDES"
-    genre: 
-    from: 
+    genre: "Techno-jazz"
+    from: "Roma/Cuneo"
     date: Venerdì 15
     time: "23.00"
     stage: XNL Festival Stage
@@ -395,8 +395,8 @@ main:
     embed: "https://youtu.be/Dnap6v5zWGY"
 
   - name: "ZEBRA FINK"
-    genre: 
-    from: 
+    genre: "Rock"
+    from: Piacenza
     date: Venerdì 15
     time: "23.00"
     stage: Main Stage
@@ -445,8 +445,8 @@ main:
     extra: "xnl"
 
   - name: "OTHERBROTHER"
-    genre: 
-    from: 
+    genre: "Hip-hop"
+    from: Piacenza
     date: Sabato 16
     time: "21.30"
     stage: Portichetto
@@ -457,8 +457,8 @@ main:
     embed: "https://youtu.be/QEtKXljTLFA"
 
   - name: "DA CAPTAIN TRIPS"
-    genre: 
-    from: 
+    genre: "Psych/jammed-rock"
+    from: Piacenza
     date: Sabato 16
     time: "22.00"
     stage: Main Stage
@@ -469,8 +469,8 @@ main:
     embed: "https://youtu.be/1v2pLQv4DUI?t=6m28s"
 
   - name: "MOTHER ISLAND"
-    genre: 
-    from: 
+    genre: "Psichedelia"
+    from: Piacenza
     date: Sabato 16
     time: "23.00"
     stage: Main Stage
@@ -481,8 +481,8 @@ main:
     embed: "https://youtu.be/voAq5XBmTCI"
 
   - name: "KRANG"
-    genre: 
-    from: 
+    genre: "Technodrome"
+    from: Milano
     date: Sabato 16
     time: "21.00"
     stage: XNL Festival Stage
@@ -494,8 +494,8 @@ main:
     extra: "xnl"
 
   - name: "LOOP THERAPY feat HYST"
-    genre: 
-    from: 
+    genre: "Hip-hop/jazz/funk/soul"
+    from: "Milano/Torino"
     date: Sabato 16
     time: "23.00"
     stage: XNL Festival Stage
@@ -873,8 +873,8 @@ main:
     extra: "xnl"
 
   - name: "PINZA+LELE"
-    genre: 
-    from: 
+    genre: "Techno"
+    from: Piacenza
     date: Venerdì 15
     time: "00.00"
     stage: XNL Festival Stage
@@ -1252,4 +1252,4 @@ main:
     banner: bands/banners/plasman.jpg
     link: "https://www.facebook.com/plasman51"
     embed: "https://soundcloud.com/plasman-51beats"
-    extra: "xnl" 
+    extra: "xnl"
