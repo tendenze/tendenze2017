@@ -1,68 +1,8 @@
-- name: XXII EDIZIONE - 2016 - Foto by Effetre
+- name: XV EDIZIONE - 2010
   galleries:
-    - link: "https://www.facebook.com/pg/tendenzefestival/photos/?tab=album&album_id=1268646193186489"
-      thumb: galleries/2016b.jpg
-      date: Tendenze 2016
-    - link: "https://www.facebook.com/pg/tendenzefestival/photos/?tab=album&album_id=1233259503391825"
-      thumb: galleries/2016a.jpg
-      date: Tendenze 2016
-
-- name: XXI EDIZIONE - 2015 - Foto di HOP - Humans of Piacenza
-  galleries:
-    - link: "https://www.facebook.com/media/set/?set=a.1032328433484934.1073741840.210885035629282&type=3"
-      thumb: galleries/2015-09-18.jpg
-      date: VEN 18.09.2015
-    - link: "https://www.facebook.com/media/set/?set=a.1032853536765757.1073741841.210885035629282&type=3"
-      thumb: galleries/2015-09-19.jpg
-      date: SAB 19.09.2015
-    - link: "https://www.facebook.com/media/set/?set=a.1033698763347901.1073741842.210885035629282&type=3"
-      thumb: galleries/2015-09-20.jpg
-      date: DOM 20.09.2015
-
-- name: XXI EDIZIONE - 2015 - Foto di Florinda Calì
-  galleries:
-    - link: "https://www.facebook.com/media/set/?set=a.1032125173505260.1073741838.210885035629282&type=3"
-      thumb: galleries/florinda-01.jpg
-      date: Gallery I
-    - link: "https://www.facebook.com/media/set/?set=a.1032126383505139.1073741839.210885035629282&type=3"
-      thumb: galleries/florinda-02.jpg
-      date: Gallery II
-
-- name: XX EDIZIONE - 2014
-  galleries:
-    - link: "https://www.facebook.com/media/set/?set=a.803198766397903.1073741835.210885035629282&type=3"
-      thumb: galleries/2014-09-12.jpg
-      date: VEN 12.09.2014
-    - link: "https://www.facebook.com/media/set/?set=a.803849179666195.1073741836.210885035629282&type=3"
-      thumb: galleries/2014-09-13.jpg
-      date: SAB 13.09.2014
-    - link: "https://www.facebook.com/media/set/?set=a.804643652920081.1073741837.210885035629282&type=3"
-      thumb: galleries/2014-09-14.jpg
-      date: DOM 14.09.2014
-
-- name: XIX EDIZIONE - 2013
-  galleries:
-    - link: "https://www.facebook.com/media/set/?set=a.605066632877785.1073741828.210885035629282&type=3"
-      thumb: galleries/2013-09-06.jpg
-      date: VEN 06.09.2013
-    - link: "https://www.facebook.com/media/set/?set=a.605619582822490.1073741829.210885035629282&type=3"
-      thumb: galleries/2013-09-07.jpg
-      date: SAB 07.09.2013
-    - link: "https://www.facebook.com/media/set/?set=a.606061939444921.1073741830.210885035629282&type=3"
-      thumb: galleries/2013-09-08.jpg
-      date: DOM 08.09.2013
-
-- name: XVII EDIZIONE - 2012
-  galleries:
-    - link: "https://www.facebook.com/media/set/?set=a.439293049455145.114655.210885035629282&type=3"
-      thumb: galleries/2012-09-07.jpg
-      date: VEN 07.09.2012
-    - link: "https://www.facebook.com/media/set/?set=a.439691762748607.114781.210885035629282&type=3"
-      thumb: galleries/2012-09-08.jpg
-      date: SAB 08.09.2012
-    - link: "https://www.facebook.com/media/set/?set=a.440796599304790.115105.210885035629282&type=3"
-      thumb: galleries/2012-09-09.jpg
-      date: DOM 09.09.2012
+    - link: "https://www.facebook.com/media/set/?set=a.237008433016942.73554.210885035629282&type=3"
+      thumb: galleries/2010.jpg
+      date: "09.2010"
 
 - name: XVI EDIZIONE - 2011
   galleries:
@@ -76,8 +16,92 @@
       thumb: galleries/2011-09-04.jpg
       date: DOM 04.09.2011
 
-- name: XV EDIZIONE - 2010
+- name: XVII EDIZIONE - 2012
   galleries:
-    - link: "https://www.facebook.com/media/set/?set=a.237008433016942.73554.210885035629282&type=3"
-      thumb: galleries/2010.jpg
-      date: "09.2010"
+    - link: "https://www.facebook.com/media/set/?set=a.439293049455145.114655.210885035629282&type=3"
+      thumb: galleries/2012-09-07.jpg
+      date: VEN 07.09.2012
+    - link: "https://www.facebook.com/media/set/?set=a.439691762748607.114781.210885035629282&type=3"
+      thumb: galleries/2012-09-08.jpg
+      date: SAB 08.09.2012
+    - link: "https://www.facebook.com/media/set/?set=a.440796599304790.115105.210885035629282&type=3"
+      thumb: galleries/2012-09-09.jpg
+      date: DOM 09.09.2012
+
+- name: XIX EDIZIONE - 2013
+  galleries:
+    - link: "https://www.facebook.com/media/set/?set=a.605066632877785.1073741828.210885035629282&type=3"
+      thumb: galleries/2013-09-06.jpg
+      date: VEN 06.09.2013
+    - link: "https://www.facebook.com/media/set/?set=a.605619582822490.1073741829.210885035629282&type=3"
+      thumb: galleries/2013-09-07.jpg
+      date: SAB 07.09.2013
+    - link: "https://www.facebook.com/media/set/?set=a.606061939444921.1073741830.210885035629282&type=3"
+      thumb: galleries/2013-09-08.jpg
+      date: DOM 08.09.2013
+
+- name: XX EDIZIONE - 2014
+  galleries:
+    - link: "https://www.facebook.com/media/set/?set=a.803198766397903.1073741835.210885035629282&type=3"
+      thumb: galleries/2014-09-12.jpg
+      date: VEN 12.09.2014
+    - link: "https://www.facebook.com/media/set/?set=a.803849179666195.1073741836.210885035629282&type=3"
+      thumb: galleries/2014-09-13.jpg
+      date: SAB 13.09.2014
+    - link: "https://www.facebook.com/media/set/?set=a.804643652920081.1073741837.210885035629282&type=3"
+      thumb: galleries/2014-09-14.jpg
+      date: DOM 14.09.2014
+
+- name: XXI EDIZIONE - 2015 - Foto di Florinda Calì
+  galleries:
+    - link: "https://www.facebook.com/media/set/?set=a.1032125173505260.1073741838.210885035629282&type=3"
+      thumb: galleries/florinda-01.jpg
+      date: Gallery I
+    - link: "https://www.facebook.com/media/set/?set=a.1032126383505139.1073741839.210885035629282&type=3"
+      thumb: galleries/florinda-02.jpg
+      date: Gallery II
+
+- name: XXI EDIZIONE - 2015 - Foto di HOP - Humans of Piacenza
+  galleries:
+    - link: "https://www.facebook.com/media/set/?set=a.1032328433484934.1073741840.210885035629282&type=3"
+      thumb: galleries/2015-09-18.jpg
+      date: VEN 18.09.2015
+    - link: "https://www.facebook.com/media/set/?set=a.1032853536765757.1073741841.210885035629282&type=3"
+      thumb: galleries/2015-09-19.jpg
+      date: SAB 19.09.2015
+    - link: "https://www.facebook.com/media/set/?set=a.1033698763347901.1073741842.210885035629282&type=3"
+      thumb: galleries/2015-09-20.jpg
+      date: DOM 20.09.2015
+
+- name: XXII EDIZIONE - 2016 - Foto by Effetre
+  galleries:
+    - link: "https://www.facebook.com/pg/tendenzefestival/photos/?tab=album&album_id=1268646193186489"
+      thumb: galleries/2016b.jpg
+      date: Tendenze 2016
+    - link: "https://www.facebook.com/pg/tendenzefestival/photos/?tab=album&album_id=1233259503391825"
+      thumb: galleries/2016a.jpg
+      date: Tendenze 2016
+
+- name: XXIII EDIZIONE - 2017 - Pt.1
+  galleries:
+    - link: "https://www.facebook.com/210885035629282/photos/?tab=album&album_id=1613064475411324"
+      thumb: galleries/2017-09-14.jpg
+      date: GIO 14.09.2017
+    - link: "https://www.facebook.com/210885035629282/photos/?tab=album&album_id=1613564685361303"
+      thumb: galleries/2017-09-15.jpg
+      date: VEN 15.09.2017
+    - link: "https://www.facebook.com/210885035629282/photos/?tab=album&album_id=1607596912624747"
+      thumb: galleries/2017-09-16.jpg
+      date: SAB 16.09.2017
+    - link: "https://www.facebook.com/210885035629282/photos/?tab=album&album_id=1613653755352396"
+      thumb: galleries/2017-09-17.jpg
+      date: DOM 17.09.2017
+
+- name: XXIII EDIZIONE - 2017 - Pt.2
+  galleries:
+    - link: "https://www.facebook.com/pg/18-30-diciottotrenta-1813272402252564/photos/?tab=album&album_id=1996925637220572"
+      thumb: galleries/2017-assoc-18-30.jpg
+      date: Associazione 18-30
+    - link: "https://www.facebook.com/pg/BangBangRadio.it/photos/?tab=album&album_id=1481607041922541"
+      thumb: galleries/2017-bangbangradio.jpg
+      date: Bang Bang Radio

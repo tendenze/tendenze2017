@@ -986,10 +986,10 @@ body.fluid {
   text-align: center;
   margin-top: 15px;
 }
-.photos-container .entry {
+.photo-albums .entry {
   margin-top: 30px;
 }
-.photos-container .entry .title {
+.photo-albums .entry .title {
   font-family: big-noodle, Arial, sans-serif;
   font-size: 28px;
   line-height: 1;
@@ -1000,17 +1000,17 @@ body.fluid {
   padding: 3px 20px;
   margin-bottom: 13px;
 }
-.photos-container .entry .galleries {
+.photo-albums .entry .galleries {
   margin-top: 25px;
 }
-.photos-container .entry .galleries a {
+.photo-albums .entry .galleries a {
   color: #3d3d3f;
 }
-.photos-container .entry .gallery {
+.photo-albums .entry .gallery {
   padding: 10px 30px;
 }
-.photos-container .entry .image {
-  max-width: 250px;
+.photo-albums .entry .image {
+  max-width: 249px;
   margin: 0 auto;
   box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
   background: #dcddd5 url("../img/galleries/base.jpg") scroll center top / cover;
@@ -1021,21 +1021,21 @@ body.fluid {
           transition: all 0.25s ease 0s;
 }
 @media screen and (min-width: 768px) and (max-width: 991px) {
-  .photos-container .entry .image {
+  .photo-albums .entry .image {
     max-width: 186px;
   }
 }
-.photos-container .entry .image .thumb {
+.photo-albums .entry .image .thumb {
   padding-top: 121%;
 }
-.photos-container .entry .image .thumb img {
+.photo-albums .entry .image .thumb img {
   position: absolute;
   top: 0;
   padding-top: 6.8%;
   padding-left: 6.2%;
   padding-right: 6.2%;
 }
-.photos-container .entry .image .date {
+.photo-albums .entry .image .date {
   font-family: big-noodle,Arial,sans-serif;
   font-size: 30px;
   line-height: 1;
@@ -1044,7 +1044,7 @@ body.fluid {
   position: absolute;
   bottom: 12px;
 }
-.photos-container .entry .image:hover {
+.photo-albums .entry .image:hover {
   cursor: pointer;
   opacity: 0.7;
   -webkit-transition: all 0.25s ease 0s;
@@ -1052,7 +1052,7 @@ body.fluid {
        -o-transition: all 0.25s ease 0s;
           transition: all 0.25s ease 0s;
 }
-.photos-container .entry .image.rot-0 {
+.photo-albums .entry .image.rot-0 {
   -webkit-backface-visibility: hidden;
   -webkit-transform: rotate(-5deg);
      -moz-transform: rotate(-5deg);
@@ -1060,7 +1060,7 @@ body.fluid {
        -o-transform: rotate(-5deg);
           transform: rotate(-5deg);
 }
-.photos-container .entry .image.rot-1 {
+.photo-albums .entry .image.rot-1 {
   -webkit-backface-visibility: hidden;
   -webkit-transform: rotate(3deg);
      -moz-transform: rotate(3deg);
@@ -1068,12 +1068,17 @@ body.fluid {
        -o-transform: rotate(3deg);
           transform: rotate(3deg);
 }
-.photos-container .entry .image.rot-0:hover,
-.photos-container .entry .image.rot-1:hover {
+.photo-albums .entry .image.rot-0:hover,
+.photo-albums .entry .image.rot-1:hover {
   -webkit-backface-visibility: hidden;
   -webkit-transform: rotate(0deg);
      -moz-transform: rotate(0deg);
       -ms-transform: rotate(0deg);
        -o-transform: rotate(0deg);
           transform: rotate(0deg);
+}
+
+.xnl .photo-albums .entry .title {
+  color: #fff;
+  background-color: #222;
 }

@@ -48,8 +48,8 @@ main_header: true
     </div>
     <%= include_markdown "data/festival-xnl-03.md" %>
     </div>
+
     <div class="org">
-      
       <div class="collaborations">
         <h2 class="title">Partners</h2>
         <ul class="logos">
@@ -66,6 +66,12 @@ main_header: true
           <% end %>
         </ul>
       </div>
+    </div>
+
+    <div class="photo-albums">
+      <% data.galleries_xnl.reverse.each_with_index do |entry, entry_index| %>
+      <%= partial "partials/photo_album", :locals => { :entry => entry, :entry_index => entry_index } %>
+      <% end %>
     </div>
   </div>
 </div>

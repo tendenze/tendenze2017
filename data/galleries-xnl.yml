@@ -1,0 +1,8 @@
+- name: FOTO
+  galleries:
+    - link: "https://www.facebook.com/247138638975285/photos/?tab=album&album_id=491032094585937"
+      thumb: galleries/xnl-2017.jpg
+      date: "2017"
+    - link: "https://www.facebook.com/pg/xnlfestival/photos/?tab=album&album_id=276725172683298"
+      thumb: galleries/xnl-2016.jpg
+      date: "2016"
