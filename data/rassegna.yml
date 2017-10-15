@@ -1,3 +1,65 @@
+- title: Rassegna Stampa 2017
+  reverse: false
+  press:
+    - image: rassegna/2017/cs-01.jpg
+      link: download/rassegna/2017/01.pdf
+    - image: rassegna/2017/cs-02.jpg
+      link: download/rassegna/2017/02.pdf
+    - image: rassegna/2017/cs-03.jpg
+      link: download/rassegna/2017/03.pdf
+    - image: rassegna/2017/cs-04.jpg
+      link: download/rassegna/2017/04.pdf
+    - image: rassegna/2017/cs-05.jpg
+      link: download/rassegna/2017/05.pdf
+    - image: rassegna/2017/cs-06-1.jpg
+      link: download/rassegna/2017/06-1.pdf
+    - image: rassegna/2017/cs-06-2.jpg
+      link: download/rassegna/2017/06-2.pdf
+    - image: rassegna/2017/cs-07.jpg
+      link: download/rassegna/2017/07.pdf
+    - image: rassegna/2017/cs-08.jpg
+      link: download/rassegna/2017/08.pdf
+    - image: rassegna/2017/cs-09-1.jpg
+      link: download/rassegna/2017/09-1.pdf
+    - image: rassegna/2017/cs-09-2.jpg
+      link: download/rassegna/2017/09-2.pdf
+    - image: rassegna/2017/cs-10.jpg
+      link: download/rassegna/2017/10.pdf
+    - image: rassegna/2017/cs-11.jpg
+      link: download/rassegna/2017/11.pdf
+    - image: rassegna/2017/cs-12.jpg
+      link: download/rassegna/2017/12.pdf
+    - image: rassegna/2017/cs-13.jpg
+      link: download/rassegna/2017/13.pdf
+    - image: rassegna/2017/cs-14.jpg
+      link: download/rassegna/2017/14.pdf
+    - image: rassegna/2017/02.jpg
+      link: "http://www.piacenzasera.it/tendenze/willie-peyote-fa-pieno-palco-tendenze-2017-foto.jspurl?IdC=1093&IdS=1093&tipo_padre=0&tipo_cliccato=0&id_prodotto=82583&css="
+    - image: rassegna/2017/03.jpg
+      link: "http://www.piacenzasera.it/tendenze/tendenze-2017-xnl-festival-buona-prima.jspurl?IdC=1093&IdS=1093&tipo_padre=0&tipo_cliccato=0&id_prodotto=82529&css="
+    - image: rassegna/2017/04.jpg
+      link: "http://www.piacenzasera.it/tendenze/tendenze-xnl-fest-al-via-quattro-giorni-spazio-4.jspurl?IdC=1093&IdS=1093&tipo_padre=0&tipo_cliccato=0&id_prodotto=82479&css="
+    - image: rassegna/2017/05.jpg
+      link: "http://www.piacenzasera.it/app/facebook-81563.jsp"
+    - image: rassegna/2017/06.jpg
+      link: "http://www.piacenzasera.it/tendenze/po-ricorda-weekend-si-fa-4-tendenze-xnl-orzorock.jspurl?IdC=1093&IdS=1093&tipo_padre=0&tipo_cliccato=0&id_prodotto=81949&css="
+    - image: rassegna/2017/07.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/countdown-finito-tutto-il-programma-di-tendenze-2017"
+    - image: rassegna/2017/08.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/xnl-tendenze-il-festival-dentro-il-festival"
+    - image: rassegna/2017/09.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/tendenze-%C3%A8-vicinissimo-ecco-il-focus-sui-4-main-live"
+    - image: rassegna/2017/10.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/sar%C3%A0-willie-peyote-il-main-event-di-tendenze-2017"
+    - image: rassegna/2017/11.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/sputnik-e-spaziostore-tendenze-iscrizioni-ancora-aperte-vinili-e-vintage"
+    - image: rassegna/2017/12.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/si-riaccende-il-lungo-po-monster-orzorock-%E2%80%93-il-po-ricorda-parte-i-featuring"
+    - image: rassegna/2017/13.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/si-riaccende-il-lungo-po-monster-orzorock-%E2%80%93-il-po-ricorda-parte-ii-line"
+    - image: rassegna/2017/14.jpg
+      link: "http://www.relics-controsuoni.com/2017/09/tendenze-festival-2017spazio4-di-piacenza-foto-di-nicola-braga.html"
+
 - title: Rassegna Stampa 2016
   reverse: true
   press:
