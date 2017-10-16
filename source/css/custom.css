@@ -1079,6 +1079,6 @@ body.fluid {
 }
 
 .xnl .photo-albums .entry .title {
-  color: #fff;
-  background-color: #222;
+  color: #555;
+  background-color: transparent;
 }
