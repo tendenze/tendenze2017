@@ -2,8 +2,15 @@
   <div class="col-xs-12 col-sm-9 col-md-9">
     <div class="title"><%= data["title"] %></div>
     <div class="date"><%= data["date"] %></div>
-    <div class="content"><%= summary ? TruncateHTML.truncate_html(data["text"], 984) : data["text"] %></div>
-    <% if summary %>
+    <%
+      if summary
+        truncated, news_text = TruncateHTML.truncate_html(data["text"], 984)
+      else
+        news_text = data["text"]
+      end
+    %>
+    <div class="content"><%= news_text %></div>
+    <% if summary and truncated %>
       <%= link_to "Leggi di più", "/news/#{prefix}/#{data["id"]}.html#news", :class => "link" %>
     <% end %>
   </div>

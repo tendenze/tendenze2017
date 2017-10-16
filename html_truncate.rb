@@ -11,9 +11,9 @@ module TruncateHTML
     content_length = doc.inner_text.length
     actual_length = max_length - ellipsis_length
     if content_length > actual_length
-      doc.truncate(actual_length, ellipsis).inner_html
+      return true, doc.truncate(actual_length, ellipsis).inner_html
     else
-      text
+      return false, text
     end
   end
 end
